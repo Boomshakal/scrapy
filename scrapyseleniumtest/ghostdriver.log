@@ -1,0 +1,104 @@
+[INFO  - 2018-08-14T13:27:15.288Z] GhostDriver - Main - running on port 42551
+[INFO  - 2018-08-14T13:27:16.111Z] Session [c2d765b0-9fc5-11e8-98ea-f13ed5302859] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":false,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/602.1 (KHTML, like Gecko) PhantomJS/2.1.1 Version/9.0 Safari/602.1"}
+[INFO  - 2018-08-14T13:27:16.111Z] Session [c2d765b0-9fc5-11e8-98ea-f13ed5302859] - page.customHeaders:  - {}
+[INFO  - 2018-08-14T13:27:16.111Z] Session [c2d765b0-9fc5-11e8-98ea-f13ed5302859] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-08-14T13:27:16.112Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c2d765b0-9fc5-11e8-98ea-f13ed5302859
+[ERROR - 2018-08-14T13:27:16.195Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:16.214Z] RouterReqHan[INFO  - 2018-08-14T13:29:04.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T13:34:04.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T13:39:04.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T13:44:04.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T13:49:04.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T13:54:04.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T13:59:04.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:04:04.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:09:04.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:14:04.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:19:04.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:24:04.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:29:04.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:28:45.271Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:16.659Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:16.679Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:16.700Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:16.722Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:16.742Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:16.762Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:16.782Z] RouterReq[INFO  - 2018-08-14T13:30:43.272Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T13:35:43.272Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T13:40:43.272Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T13:45:43.272Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T13:50:43.272Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T13:55:43.272Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:00:43.272Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:05:43.272Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:10:43.272Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:15:43.272Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:20:43.272Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:25:43.272Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:30:43.272Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+4T13:27:17.195Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.214Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.235Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.256Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.277Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.294Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.313Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.333Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.354Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.375Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.396Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.416Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.437Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.459Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.479Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.501Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.518Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.538Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.560Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.580Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.601Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.620Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.641Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.659Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.680Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.703Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.722Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.741Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.759Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.780Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.801Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.819Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.839Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.861Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.881Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.900Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.920Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.941Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.961Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:17.983Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:18.001Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:18.021Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:18.040Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:18.060Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:18.079Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:18.100Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:18.120Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:18.140Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:18.162Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:18.184Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[ERROR - 2018-08-14T13:27:18.205Z] RouterReqHand - _handle.error - {"line":40,"column":28}
+[INFO  - 2018-08-14T13:32:15.288Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T13:37:15.288Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T13:42:15.289Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T13:47:15.289Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T13:52:15.290Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T13:57:15.290Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:02:15.290Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:07:15.290Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:12:15.290Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:17:15.290Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:22:15.290Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:27:15.290Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-08-14T14:28:15.715Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
