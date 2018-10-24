@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import json
+from time import sleep
 
 from scrapy import Spider,Request
 
@@ -16,6 +17,7 @@ class CouponsSpider(Spider):
 
     def parse(self, response):
         result = json.loads(response.text).get('data')
+
         for i in result:
             print(i)
             item = TejiaItem()
@@ -23,11 +25,12 @@ class CouponsSpider(Spider):
                 if field in i.keys():
                     item[field]=i.get(field)
             yield item
-        page=self.page+1
-        if page<10:
-            next_page_url=self.start_url.format(page)
+
+        if self.page<10:
+            self.page=self.page+1
+            next_page_url=self.start_url.format(self.page)
         else:
             return
-
+        #sleep(2)
         yield Request(next_page_url,self.parse)
 
