@@ -13,4 +13,4 @@ class WeiboItem(scrapy.Item):
     # name = scrapy.Field()
     #pass
     user=scrapy.Field()
-    info=scrapy.Field()
+    text=scrapy.Field()

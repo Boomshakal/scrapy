@@ -15,14 +15,7 @@ class WeibocnSpider(Spider):
             item = WeiboItem()
             try:
                 item['user'] = mblog['user']
-                item['info']=mblog['text']
+                item['text']=mblog['text']
                 yield item
             except:
                 print(None)
-
-                # result = json.loads(response.text)
-                # item = UserItem()
-                # for field in item.fields:
-                #     if field in result.keys():
-                #         item[field] = result.get(field)
-                # yield item
