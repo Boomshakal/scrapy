@@ -4,7 +4,7 @@ from urllib.parse import quote
 from scrapy import Request,Spider
 from scrapyseleniumtest.items import ProductItem
 
-class TaobaoSpider(scrapy.Spider):
+class TaobaoSpider(Spider):
     name = "taobao"
     allowed_domains = ["www.taobao.com"]
     base_url = 'https://s.taobao.com/search?q='
