@@ -10,6 +10,7 @@ from aiqiyi.items import CommentsItem
 class CommentsSpider(Spider):
     name = 'comments'
     page=3
+    content_id=1753812600  #国风美少年
     #allowed_domains = ['http://sns-comment.iqiyi.com/v3/comment/get_comments.action?']
     start_url = 'https://sns-comment.iqiyi.com/v3/comment/get_comments.action?'
     headers={
@@ -17,7 +18,7 @@ class CommentsSpider(Spider):
             'agent_version': '9.11.5',
             'authcookie': 'null',
             'business_type': 17,
-            'content_id': 1629260900,
+            'content_id': content_id,
             'hot_size': 0,
             'last_id': '',
             'page': page,
