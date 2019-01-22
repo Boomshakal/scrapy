@@ -1,11 +1,5 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
+import execjs
 
-import execjs,os
-#执行本地自定义的js
-print (execjs.compile('function test(){'
-               'return 5'
-               '}'
-               ''
-               ''
-               '').call("test"))
+
+jiamipasswd=execjs.compile(open(r"111.js").read()).call('add',1,2)
+print(jiamipasswd)

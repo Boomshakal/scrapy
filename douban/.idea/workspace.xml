@@ -5,7 +5,7 @@
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eip/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eip/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eip/eip/aes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../eip/eip/aes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eip/eip/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/../eip/eip/desEncrypt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eip/eip/desEncrypt.js" beforeDir="false" afterPath="$PROJECT_DIR$/../eip/eip/desEncrypt.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eip/eip/security.js" beforeDir="false" afterPath="$PROJECT_DIR$/../eip/eip/security.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eip/eip/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../eip/eip/test.py" afterDir="false" />
     </list>
@@ -33,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/douban/spiders/yingping.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -97,7 +97,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,6 +119,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,16 +152,17 @@
       <updated>1547623987308</updated>
       <workItem from="1547623988504" duration="3444000" />
       <workItem from="1547629510612" duration="19000" />
+      <workItem from="1548155232814" duration="589000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3463000" />
+    <option name="totallyTimeSpent" value="4052000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="477" y="159" width="1284" height="879" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25485438" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25970873" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -175,7 +176,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32934928" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32934928" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -225,7 +226,7 @@
     <entry file="file://$PROJECT_DIR$/douban/spiders/yingping.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>

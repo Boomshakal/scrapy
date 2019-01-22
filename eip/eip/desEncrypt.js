@@ -118,7 +118,3 @@ function base64Encode(str, xForm) {
 function base64Encodex(str, xForm) {
     return _1(str, xForm, true)
 }
-
-function add(x, y) {
-    return x+y
-}
