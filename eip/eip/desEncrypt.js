@@ -1,6 +1,6 @@
-//Com_RegisterFile("security.js");
-//Com_IncludeFile("aes.js");
-//Com_IncludeFile("base64.js");
+Com_RegisterFile("security.js");
+Com_IncludeFile("aes.js");
+Com_IncludeFile("base64.js");
 var SECURITYKEY = {
     toHexString: function(str) {
         var temp = "";
@@ -117,4 +117,8 @@ function base64Encode(str, xForm) {
 }
 function base64Encodex(str, xForm) {
     return _1(str, xForm, true)
+}
+
+function add(x, y) {
+    return x+y
 }
