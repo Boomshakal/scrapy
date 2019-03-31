@@ -63,11 +63,13 @@ DEFAULT_REQUEST_HEADERS = {
 #    'scrapy.extensions.telnet.TelnetConsole': None,
 #}
 
-# Configure item pipelines
+MONGO_URI='localhost'
+MONGO_DATABASE='weibo'
+# Configurbocne item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'weibo.pipelines.WeiboPipeline': 300,
-#}
+ITEM_PIPELINES = {
+   'weibo.pipelines.MongoPipeline': 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
