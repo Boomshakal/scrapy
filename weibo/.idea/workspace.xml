@@ -7,13 +7,6 @@
       <change beforePath="$PROJECT_DIR$/../aiqiyi/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../aiqiyi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../aiqiyi/aiqiyi/spiders/comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/aiqiyi/spiders/comments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/weibo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/weibo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weibo/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/weibo/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weibo/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/weibo/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weibo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/weibo/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weibo/spiders/weibocn.py" beforeDir="false" afterPath="$PROJECT_DIR$/weibo/spiders/weibocn.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../zhihuuser/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zhihuuser/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../zhihuuser/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zhihuuser/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../zhihuuser/.idea/zhihuuser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../zhihuuser/.idea/zhihuuser.iml" afterDir="false" />
@@ -28,47 +21,7 @@
     <SUITE FILE_PATH="coverage/weibo$weibocn.coverage" NAME="weibocn Coverage Results" MODIFIED="1538057721837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo/spiders" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/weibo/spiders/weibocn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="71" column="67" lean-forward="true" selection-start-line="71" selection-start-column="67" selection-end-line="71" selection-end-column="67" />
-              <folding>
-                <element signature="e#24#57#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weibo/items.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weibo/pipelines.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="31" column="51" lean-forward="true" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weibo/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -145,7 +98,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zhihuuser" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -224,16 +177,24 @@
       <option name="presentableId" value="Default" />
       <updated>1538053917985</updated>
     </task>
+    <task id="LOCAL-00001" summary="updata weibo">
+      <created>1554028583362</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554028583362</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="2048" height="1118" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1353755" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.13517514" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.5187058" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.51859295" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32962587" />
       <window_info anchor="bottom" id="Python Console" order="4" weight="0.32962587" />
@@ -254,6 +215,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updata weibo" />
+    <option name="LAST_COMMIT_MESSAGE" value="updata weibo" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/weibo/spiders/__init__.py">
@@ -350,29 +315,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/weibo/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
+        <state relative-caret-position="1452">
           <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/weibo/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="51" lean-forward="true" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+        <state relative-caret-position="451">
+          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/weibo/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        <state relative-caret-position="385">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/weibo/spiders/weibocn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="71" column="67" lean-forward="true" selection-start-line="71" selection-start-column="67" selection-end-line="71" selection-end-column="67" />
+        <state relative-caret-position="553">
+          <caret line="64" column="34" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
           <folding>
             <element signature="e#24#57#0" expanded="true" />
           </folding>
