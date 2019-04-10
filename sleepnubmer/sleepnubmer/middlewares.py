@@ -4,7 +4,7 @@
 #
 # See documentation in:
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
-
+import requests
 from scrapy import signals
 
 
@@ -101,3 +101,10 @@ class SleepnubmerDownloaderMiddleware(object):
 
     def spider_opened(self, spider):
         spider.logger.info('Spider opened: %s' % spider.name)
+
+
+class ProxyMiddleware(object):
+
+    def process_request(self, request, spider):
+        pro_addr = requests.get('http://127.0.0.1:5555/random').text
+        request.meta['proxy'] = 'http://' + pro_addr
