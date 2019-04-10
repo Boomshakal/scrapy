@@ -43,10 +43,14 @@ DEFAULT_REQUEST_HEADERS = {
   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
   'Accept-Language': 'en',
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36',
+    'x-requested-with': 'XMLHttpRequest',
 }
 
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
+
+PROXY_URL = 'http://127.0.0.1:5555/random'
+
 SPIDER_MIDDLEWARES = {
    'sleepnubmer.middlewares.ProxyMiddleware': 543,
 }

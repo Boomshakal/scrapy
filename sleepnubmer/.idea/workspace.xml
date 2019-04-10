@@ -11,6 +11,7 @@
       <change beforePath="$PROJECT_DIR$/sleepnubmer/latitude_longitude.py" beforeDir="false" afterPath="$PROJECT_DIR$/sleepnubmer/latitude_longitude.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sleepnubmer/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/sleepnubmer/middlewares.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sleepnubmer/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sleepnubmer/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sleepnubmer/spiders/stores.py" beforeDir="false" afterPath="$PROJECT_DIR$/sleepnubmer/spiders/stores.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,53 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sleepnubmer/latitude_longitude.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sleepnubmer/spiders/stores.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-              <folding>
-                <element signature="e#24#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sleepnubmer/middlewares.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
-              <folding>
-                <element signature="e#168#183#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sleepnubmer/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -75,18 +30,18 @@
       <list>
         <option value="$PROJECT_DIR$/sleepnubmer/pipelines.py" />
         <option value="$PROJECT_DIR$/sleepnubmer/items.py" />
-        <option value="$PROJECT_DIR$/sleepnubmer/spiders/stores.py" />
+        <option value="$PROJECT_DIR$/sleepnubmer/latitude_longitude.py" />
         <option value="$PROJECT_DIR$/sleepnubmer/middlewares.py" />
         <option value="$PROJECT_DIR$/sleepnubmer/settings.py" />
-        <option value="$PROJECT_DIR$/sleepnubmer/latitude_longitude.py" />
+        <option value="$PROJECT_DIR$/sleepnubmer/spiders/stores.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="207" />
-    <option name="y" value="198" />
-    <option name="width" value="1577" />
-    <option name="height" value="849" />
+    <option name="x" value="803" />
+    <option name="y" value="195" />
+    <option name="width" value="1567" />
+    <option name="height" value="848" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -94,6 +49,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,7 +72,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,6 +173,14 @@
       <option name="presentableId" value="Default" />
       <updated>1554376968084</updated>
     </task>
+    <task id="LOCAL-00001" summary="'add proxy'">
+      <created>1554877276240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554877276241</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -231,26 +194,30 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="2048" height="1118" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15612648" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32962587" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40849343" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35085946" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32962587" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32964823" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.289181" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2992922" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add proxy" />
+    <MESSAGE value="'add proxy'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'add proxy'" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/spiders/quotes.py">
@@ -293,27 +260,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sleepnubmer/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sleepnubmer/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
-          <folding>
-            <element signature="e#168#183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sleepnubmer/latitude_longitude.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="228">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -322,15 +272,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stores.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="302" column="47" selection-start-line="302" selection-start-column="47" selection-end-line="302" selection-end-column="47" />
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sleepnubmer/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sleepnubmer/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="129" column="46" selection-start-line="129" selection-start-column="46" selection-end-line="129" selection-end-column="46" />
+          <folding>
+            <element signature="e#168#182#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sleepnubmer/spiders/stores.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        <state relative-caret-position="494">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
           <folding>
             <element signature="e#24#35#0" expanded="true" />
           </folding>

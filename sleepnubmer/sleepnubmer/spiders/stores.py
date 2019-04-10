@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 import json
 
-from scrapy import Spider,Request
+from scrapy import Spider,Request,FormRequest
 
 from sleepnubmer.items import SleepnubmerItem
-from sleepnubmer.latitude_longitude import location
 
 class StoresSpider(Spider):
     name = 'stores'
@@ -18,12 +17,28 @@ class StoresSpider(Spider):
 
     url_base = 'https://www.sleepnumber.com/api/1/find-mattress-stores?latitude={latitude}&longitude={longitude}'
     # start_urls =['https://stores.sleepnumber.com/ia/west-des-moines/6630-mills-civic-parkway.html']
+    latlng_url='https://www.latlong.net/_spm4.php'
+
+
+
     def start_requests(self):
         for i in self.loc:
-            latitude=location(i).split(',')[0]
-            longitude=location(i).split(',')[1]
+            data = {
+                'c1': i,
+                'action': 'gpcm',
+                'cp' : ''
+            }
+            url=self.latlng_url
+            yield FormRequest(url=url,formdata=data,callback=self.parse_latlng)
 
-            yield Request(url=self.url_base.format(latitude=latitude,longitude=longitude),callback=self.parse_stores)
+
+    def parse_latlng(self, response):
+        latng=response.text
+        if ','in latng:
+            latitude = latng.split(',')[0]
+            longitude = latng.split(',')[1]
+
+            yield Request(url=self.url_base.format(latitude=latitude, longitude=longitude), callback=self.parse_stores)
 
     def parse_stores(self, response):
         results=json.loads(response.text)
