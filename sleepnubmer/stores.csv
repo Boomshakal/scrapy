@@ -1,0 +1,467 @@
+title,address_info,city,abbr,post,phone
+"['Sleep Number ', 'Biloxi']","['Next to Starbucks off the Promenade Parkway', '3868 Promenade Parkway', 'Suite B']",Biloxi,MS,39540,(228) 354-8631
+"['Sleep Number ', 'Millbury']","['Near Barnes & Noble', '70 Worcester-Providence Turnpike', 'Suite 617']",Millbury,MA,01527,(508) 865-2717
+"['Sleep Number ', 'McDonough']","['Next to Vitamin Shoppe, in front of JC Penney', '1434 Hwy 20 West', 'McDonough']",McDonough,GA,30253,(770) 914-1006
+"['Sleep Number ', 'Cherry Hill']","['Grand Court, next to Express', '2000 Route 38', 'Space 1230']",Cherry Hill,NJ,08002,(856) 488-0126
+"['Sleep Number ', 'Waldorf']","[""Mall Location - Second level, near Kohl's"", '11110 Mall Circle', 'Space P-02']",Waldorf,MD,20603,(301) 705-8410
+"['Sleep Number ', 'Estero']","['Mall Location - Next to Barnes & Noble', '23140 Fashion Dr', 'Suite 111']",Estero,FL,33928,(239) 949-6579
+"['Sleep Number ', 'Brooklyn']","['Corner of Atlantic Ave. and Boerum Place', '251 Atlantic Ave', 'Brooklyn']",Brooklyn,NY,11201,(347) 671-0384
+"['Sleep Number ', 'Lady Lake']","['Across from Target', '921 N U.S. 441', 'Lady Lake']",Lady Lake,FL,32159,(352) 674-0449
+"['Sleep Number ', 'Alpharetta']","['in front of Target, off Northpoint Pkwy.', '6110 N Point Pkwy', 'Suite B']",Alpharetta,GA,30022,(770) 663-0626
+"['Sleep Number ', 'Dunwoody']","['Across from California Pizza Kitchen', '4595 Ashford Dunwoody Rd. NE', 'Suite A']",Dunwoody,GA,30346,(770) 415-9758
+"['Sleep Number ', 'Union Gap']","[""Next to Miner's Restaurant"", '2511 Main St.', 'Union Gap']",Union Gap,WA,98903,(509) 457-8601
+"['Sleep Number ', 'Tigard']","['Located at the entrance of Bridgeport Village', '7211 SW Bridgeport Rd', 'Bldg F-103']",Tigard,OR,97224,(503) 670-1154
+"['Sleep Number ', 'Peachtree Corners']","['Across from the Forum Shopping Center', '5150 Peachtree Pkwy', 'Suite 200']",Peachtree Corners,GA,30092,(770) 446-5297
+"['Sleep Number ', 'Camas']","['On 192nd and SE 1st, adjacent to the new Costco', '19206 SE 1st Street', 'Suite 120']",Camas,WA,98607,(360) 892-6177
+"['Sleep Number ', 'Happy Valley']","['lower level near California Pizza Kitchen', '12000 SE 82nd Avenue', 'Suite 3035']",Happy Valley,OR,97086,(503) 786-3695
+"['Sleep Number ', 'Santa Maria']","['Near Home Depot and Staples', '2134 S Bradley Road', 'Suite B-2']",Santa Maria,CA,93455,(805) 349-1949
+"['Sleep Number ', 'Davenport']","['Across from Target', '5270 Elmore Crossing', 'Suite 2']",Davenport,IA,52807,(563) 386-6915
+"['Sleep Number ', 'Peoria']","['Across from Fresh Market', '4119 N Sterling Ave', 'Peoria']",Peoria,IL,61615,(309) 686-1673
+"['Sleep Number ', 'Springfield']","[""Mall Location - Upper level, by Dick's Sporting Goods"", '2501 W Wabash Ave', 'Suite G15A']",Springfield,IL,62704,(217) 793-0765
+"['Sleep Number ', 'Champaign']","[""Mall Location - Near Macy's across from Sephora"", '2000 N Neil Street', 'Space 618']",Champaign,IL,61820,(217) 356-3880
+"['Sleep Number ', 'Columbia']","['Mall Location - Near JCPenney', '2300 Bernadette Dr', 'Suite 428']",Columbia,MO,65203,(573) 446-5030
+"['Sleep Number ', 'Kansas City']","[""Next to Dillard's"", '7300 NW 87th Terrace', 'Suite H109']",Kansas City,MO,64153,(816) 746-6072
+"['Sleep Number ', 'Bloomington']","['Next to Whole Foods', '2894 E 3rd Street', 'Space D01']",Bloomington,IN,47401,(812) 323-2987
+"['Sleep Number ', 'Granger']","['Across from Target', '103 E University Drive', 'Granger']",Granger,IN,46530,(574) 277-3180
+"['Sleep Number ', 'Lincoln']","['O Street near Whole Foods', '6005 O Street', 'Suite C']",Lincoln,NE,68510,(402) 466-1600
+"['Sleep Number ', 'Merrillville']","['Next to Buffalo Wild Wings', '2535 Southlake Mall', 'Merrillville']",Merrillville,IN,46410,(219) 769-4823
+"['Sleep Number ', 'Tulsa']","[""71st Street Adjacent to Sam's Club"", '9205 E 71st St', 'Suite A']",Tulsa,OK,74133,(918) 459-8995
+"['Sleep Number ', 'Bend']","['Across from Barnes and Noble', '2680 NE Hwy 20', 'Suite 100']",Bend,OR,97701,(541) 382-3825
+"['Sleep Number ', 'Madison']","['Next to Cheesecake Factory', '4 W Towne Mall', 'Suite C4']",Madison,WI,53719,(608) 827-8877
+"['Sleep Number ', 'Fort Wayne']","['next to Target, across from Jefferson Pointe', '4602 Illinois Road', 'Suite 102']",Fort Wayne,IN,46804,(260) 484-7798
+"['Sleep Number ', 'Lexington']","['Mall Location - By Cheesecake Factory', '3555 Nicholasville Rd', 'Suite I-940']",Lexington,KY,40503,(859) 272-5061
+"['Sleep Number ', 'Cincinnati']","['near JCPenney', '3645 Stone Creek Blvd.', 'Suite C']",Cincinnati,OH,45251,(513) 259-2673
+"['Sleep Number ', 'Overland Park']","['At 135th & Metcalf, near Von Maur', '6725 W 135th St', 'Overland Park']",Overland Park,KS,66223,(913) 402-7564
+"['Sleep Number ', 'Oklahoma City']","['Mall Location - Upper level, next to Starbucks', '1901 NW Expressway', 'Suite 2059A']",Oklahoma City,OK,73118,(405) 810-0074
+"['Sleep Number ', 'Topeka']","['On SW Wannamaker next to Academy', '1191 SW Wanamaker Rd', 'Suite A']",Topeka,KS,66604,(785) 271-1390
+"['Sleep Number ', ""Lee's Summit""]","['Summit Fair Shopping Center, in front of JCPenney', '940 NW Blue Pkwy', 'Suite C']",Lee's Summit,MO,64086,(816) 554-4931
+"['Sleep Number ', 'Lenexa']","['Across from Oak Park Mall', '11916 W 95th Street', 'Lenexa']",Lenexa,KS,66215,(913) 859-9612
+"['Sleep Number ', 'Shreveport']","['In front of Target in the University Place Shopping Center', '7142 Youree Dr', 'Unit A']",Shreveport,LA,71105,(318) 798-3985
+"['Sleep Number ', 'Grand Island']","['Off US 281 next to Taco Bell, in front of Menards', '1919 N Diers Ave', 'Suite A']",Grand Island,NE,68803,(308) 536-4480
+"['Sleep Number ', 'Kansas City']","['Across from Legends Mall on Parallel Pkwy West', '10810 Parallel Parkway', 'Kansas City']",Kansas City,KS,66109,(913) 788-9290
+"['Sleep Number ', 'Oklahoma City']","[""next to Vitamin Shoppe and in front of Lowe's"", '2404 W Memorial Rd.', 'Oklahoma City']",Oklahoma City,OK,73134,(405) 594-4303
+"['Sleep Number ', 'Beaumont']","['In front of Parkdale Mall', '4275 Dowlen Rd.', 'Beaumont']",Beaumont,TX,77706,(409) 896-5953
+"['Sleep Number ', 'Flowood']","[""in front of Lowe's, across from Dogwood Festival Mall"", '105 Ridge Way', 'Flowood']",Flowood,MS,39232,(601) 812-5088
+"['Sleep Number ', 'Lawrence']","['In front of Target by Kay Jewelers and Super Cuts', '3231 S Iowa St.', 'Lawrence']",Lawrence,KS,66046,(785) 813-1980
+"['Sleep Number ', 'Lake Charles']","[""Mall Location - Next to the Kohl's entrance"", '496 West Prien Lake Rd', 'Unit 0H11']",Lake Charles,LA,70601,(337) 477-9675
+"['Sleep Number ', 'Lafayette']","['Near Whole Foods', '4231 Ambassador Caffery Pkwy', 'Suite 3']",Lafayette,LA,70508,(337) 993-3010
+"['Sleep Number ', 'Houma']","['Across from Chick-fil-A', '1731 Martin Luther King Blvd.', 'Suite C']",Houma,LA,70360,(985) 873-9850
+"['Sleep Number ', 'Tulsa']","['in Tulsa Hills Shopping Center next to AT&T', '7257 S Olympia Ave', 'Suite 15']",Tulsa,OK,74132,(918) 442-1499
+"['Sleep Number ', 'Metairie']","['Between Transcontinental Drive and Clearview Parkway', '4852 Veterans Memorial Blvd', 'Suite A']",Metairie,LA,70006,(504) 443-4777
+"['Sleep Number ', 'Plymouth']","['across from the Colony Place entrance, near Nasr Jewlers', '51 Commerce Way', 'Unit B1']",Plymouth,MA,02360,(508) 273-8280
+"['Sleep Number ', 'Hyannis']","['Across from Cape Cod Mall, near IHOP', '790 Iyannough Road', 'Suite 21']",Hyannis,MA,02601,(508) 465-8430
+"['Sleep Number ', 'Covington']","['Hwy 21 in front of Winn-Dixie', '70415 HWY 21', 'Covington']",Covington,LA,70433,(985) 249-5992
+"['Sleep Number ', 'Marlborough']","['upper level next to Coach, between Food Court and JCPenney', '601 Donald Lynch Blvd', 'Space S226A']",Marlborough,MA,01752,(508) 303-3611
+"['Sleep Number ', 'Wichita']","['Corner of Rock Road and 21st', '2210 N Rock Road', 'Suite 200']",Wichita,KS,67226,(316) 687-4887
+"['Sleep Number ', 'Blue Springs']","['Adams Dairy Pkwy., across from Walmart', '705 NE Coronado Dr', 'Blue Springs']",Blue Springs,MO,64014,(816) 795-0468
+"['Sleep Number ', 'North Attleboro']","['Mall Location - 3rd level, near JCPenney', '999 S. Washington St', 'North Attleboro']",North Attleboro,MA,02760,(508) 695-3438
+"['Sleep Number ', 'Natick']","['Mall Location - First floor near Starbucks', '1245 Worcester St', 'Suite 1052']",Natick,MA,01760,(508) 545-1627
+"['Sleep Number ', 'Cambridge']","['South of the Rotary past Concord Avenue', '357 Fresh Pond Pkwy', 'Cambridge']",Cambridge,MA,02138,(617) 945-5047
+"['Sleep Number ', 'Burlington']","['Next to Barnes and Noble', '90 A Middlesex Turnpike', 'Burlington']",Burlington,MA,01803,(781) 273-3800
+"['Sleep Number ', 'Cranston']","[""Across from Talbot's, near Starbucks"", '14 Hillside Road', 'Cranston']",Cranston,RI,02920,(401) 942-3878
+"['Sleep Number ', 'Baton Rouge']","['Next to the Apple Store', '6401 Bluebonnet Boulevard', 'B650']",Baton Rouge,LA,70836,(225) 766-8611
+"['Sleep Number ', 'Gainesville']","['Off Promenade Commons St. near Regal Cinemas', '14065 Promenade Commons Street', 'Gainesville']",Gainesville,VA,20155,(703) 754-1039
+"['Sleep Number ', 'Braintree']","[""Mall Location - First floor near Chico's"", '250 Granite Street', 'Space 1053']",Braintree,MA,02184,(781) 356-1507
+"['Sleep Number ', 'Woodbridge']","['Across from Apple and Starbucks', '15101 Potomac Town Place', 'Suite 120']",Woodbridge,VA,22191,(703) 496-4879
+"['Sleep Number ', 'Tysons Corner']","[""Mall Location - Lower Level between Macy's and Nordstrom"", '8015L Tysons Corner Center', 'Space O05L']",Tysons Corner,VA,22102,(703) 848-1950
+"['Sleep Number ', 'Springfield']","['Mall Location - Upper-level second floor near JC Penney', '6839 Springfield Mall', 'Springfield']",Springfield,VA,22150,(703) 924-7083
+"['Sleep Number ', 'Frederick']","['Center Court', '5500 Buckeyestown Pike', 'Space 670']",Frederick,MD,21703,(240) 215-3057
+"['Sleep Number ', 'Sterling']","['Mall Location - Upper level, near Lord & Taylor', '21100 Dulles Town Center', 'Suite 285/Space F212']",Sterling,VA,20166,(703) 421-6225
+"['Sleep Number ', 'South Burlington']","[""In front of the University Mall, across from Trader Joe's"", '205 Dorset St', 'Suite A']",South Burlington,VT,05403,(802) 658-4700
+"['Sleep Number ', 'Bangor']","['on Stillwater Ave. across from Chick-fil-A', '570 Stillwater Ave.', 'Suite 556']",Bangor,ME,04401,(207) 947-6173
+"['Sleep Number ', 'Bethesda']","[""Mall Location - Upper level, between Macy's and the food court"", '7101 Democracy Blvd', 'Space 2020']",Bethesda,MD,20817,(301) 469-7435
+"['Sleep Number ', 'South Portland']","['near Kay Jewelers', '364 Maine Mall Road', 'Space S160']",South Portland,ME,04106,(207) 772-8336
+"['Sleep Number ', 'Fairfax']","['Mall Location - Lower level, near Sears', '11922L Fair Oaks Mall', 'Suite M140']",Fairfax,VA,22033,(703) 383-1990
+"['Sleep Number ', 'Newington']","[""Mall Location - Main level, near Macy's"", '50 Fox Run Road', 'Space H010']",Newington,NH,03801,(603) 433-8709
+"['Sleep Number ', 'Nashua']","[""Mall Location - Upper level, near Macy's"", '310 Daniel Webster Hwy', 'Space 236']",Nashua,NH,03060,(603) 888-5412
+"['Sleep Number ', 'Peabody']","[""Outside of mall, next to Not Your Average Joe's"", '210 Andover Street', 'Ste P123A']",Peabody,MA,01960,(978) 531-3100
+"['Sleep Number ', 'Salina']","[""In front of Lowe's"", '3015 S 9th St.', 'Suite C']",Salina,KS,67401,(785) 201-3046
+"['Sleep Number ', 'Plainfield']","['Next to Taco Bell', '2656 E Main St.', 'Suite 115']",Plainfield,IN,46168,(317) 839-6229
+"['Sleep Number ', 'Apple Valley']","['Northwest corner of Cedar Ave. and 147th St. W.', '7525 147th St W', 'Suite 100']",Apple Valley,MN,55124,(612) 888-8018
+"['Sleep Number ', 'Wichita']","['Near Bed, Bath & Beyond and Old Navy', '2441 North Maize Road', 'Suite 2501']",Wichita,KS,67205,(316) 722-4997
+"['Sleep Number ', 'Salem']","[""Mall Location - Level 2, Macy's Wing"", '99 Rockingham Park Blvd', 'Ste E206']",Salem,NH,03079,(603) 898-8004
+"['Sleep Number ', 'Indianapolis']","['Across from Babies""R""Us', '8707 US 31 South', 'Indianapolis']",Indianapolis,IN,46227,(317) 884-2845
+"['Sleep Number ', 'Lafayette']","['Beside Mike Raisor Ford', '2131 Sagamore Pkwy S', 'Lafayette']",Lafayette,IN,47905,(765) 446-8081
+"['Sleep Number ', 'Omaha']","['Mall Location - Lower lever, near Yonkers', '10000 California St', 'Space 2431']",Omaha,NE,68114,(402) 391-9396
+"['Sleep Number ', 'Manchester']","['Across from ULTA', '1500 S Willow Street', 'Space N141A']",Manchester,NH,03103,(603) 629-9347
+"['Sleep Number ', 'Papillion']","['near SW entrance to Shadow Lake Towne Center, on corner of Hwy. 370 and Towne Center Parkway', '794 Olson Dr', 'Papillion']",Papillion,NE,68046,(402) 260-8188
+"['Sleep Number ', 'Sioux City']","['Across from Olive Garden', '5001 Sergeant Road', 'Suite 255']",Sioux City,IA,51106,(712) 276-4076
+"['Sleep Number ', 'Indianapolis']","['Across from The Container Store', '4205 East 82nd Street', 'Indianapolis']",Indianapolis,IN,46250,(317) 913-7182
+"['Sleep Number ', 'Noblesville']","[""Near Dick's Sporting Goods"", '13976 Towne Center Road', 'Suite 800']",Noblesville,IN,46060,(317) 776-6724
+"['Sleep Number ', 'Burnsville']","['Mall Location - 1st Level, near Food Court', '1076 Burnsville Center Drive', 'Burnsville']",Burnsville,MN,55306,(952) 435-6010
+"['Sleep Number ', 'Dubuque']","['On Highway 32 next to Hy-Vee Grocery', '2515 Northwest Arterial', 'Suite 9']",Dubuque,IA,52002,(563) 231-3589
+"['Sleep Number ', 'Omaha']","['17710 West Center Road, Near Target', '17710 West Center Road', 'Omaha']",Omaha,NE,68130,(402) 334-4446
+"['Sleep Number ', 'Great Falls']","['Corner of 9th St. S and 10th Ave. S.', '826 10th Ave S.', 'Great Falls']",Great Falls,MT,59405,(406) 761-3324
+"['Sleep Number ', 'Ankeny']","['next to Panera Bread', '2310 SE Delaware Ave', 'Suite Q']",Ankeny,IA,50021,(515) 267-0729
+"['Sleep Number ', 'Waterloo']","['Across from Crossroads Mall', '2027 Crossroads Blvd', 'Ste A']",Waterloo,IA,50702,(319) 277-3324
+"['Sleep Number ', 'Cedar Rapids']","['Mall Location - North side of Lindale Mall, near Collins Rd.', '4444 1st Ave NE', 'Suite 604']",Cedar Rapids,IA,52402,(319) 378-6498
+"['Sleep Number ', 'Spokane']","['Located in front of Hobby Lobby', '13920 E Indiana Ave', 'Suite C']",Spokane,WA,99216,(509) 232-6205
+"['Sleep Number ', 'Billings']","['Corner of S. 24th St. W. and Monad Rd., next to Buffalo Wild Wings', '357 South 24th St. West', 'Billings']",Billings,MT,59102,(406) 651-9350
+"['Sleep Number ', 'Orem']","[""Near Dick's Sporting Goods"", '160 E University Parkway', 'Suite A']",Orem,UT,84097,(801) 225-5664
+"['Sleep Number ', 'Ogden']","['near Hobby Lobby', '861 West Riverdale Road', 'Ogden']",Ogden,UT,84405,(385) 298-0270
+"['Sleep Number ', 'Farmington']","[""next to Cabela's"", '1060 West Park Lane', 'Suite 101']",Farmington,UT,84025,(801) 544-4434
+"['Sleep Number ', 'West Des Moines']","['Mills Civic Parkway and 68th Street', '6630 Mills Civic Parkway', 'Suite 6130']",West Des Moines,IA,50266,(515) 440-7001
+"['Sleep Number ', 'Coralville']","[""Mall Location - Across for Scheel's Interior Entrance"", '1451 Coral Ridge Ave', 'Space 522']",Coralville,IA,52241,(319) 337-0547
+"['Sleep Number ', 'Spokane']","['Corner of Central and Division', '5903 N Division Street', 'Spokane']",Spokane,WA,99208,(509) 489-1551
+"['Sleep Number ', 'Sandy']","['Near Scheels and Best Buy', '66 West 11400 South', 'Sandy']",Sandy,UT,84070,(801) 571-4949
+"['Sleep Number ', 'Meridian']","['Eagle Road and Fairview Avenue', '3680 E Fairview Ave', 'Suite 100']",Meridian,ID,83642,(208) 376-0928
+"['Sleep Number ', 'Kennewick']","[""Mall Location - Exterior entrance next to Macy's"", '1321 N Columbia Center Blvd', 'Suite 900']",Kennewick,WA,99336,(509) 734-2888
+"['Sleep Number ', 'Twin Falls']","[""Next to Men's Warehouse"", '1853 Blue Lakes Blvd. NE', 'Twin Falls']",Twin Falls,ID,83301,(208) 423-2010
+"['Sleep Number ', 'Bozeman']","['Across from Safeway', '1919 W Main Street', 'Suite 2']",Bozeman,MT,59718,(406) 587-2082
+"['Sleep Number ', 'Bluffton']","['corner of Fording Island Rd. and Burnt Church Rd.', '1137 Fording Island Road', 'Bluffton']",Bluffton,SC,29910,(843) 507-8307
+"['Sleep Number ', 'Ammon']","['Across from Grand Teton Mall', '2001 South 25th E Street', 'Ammon']",Ammon,ID,83406,(208) 522-1947
+"['Sleep Number ', 'Conyers']","['Across from Starbucks, between Bank of America and Chick fil-A', '1550 Hwy. 138 SE', 'Suite 300']",Conyers,GA,30013,(470) 200-0570
+"['Sleep Number ', 'Mankato']","['on the corner of Sioux Road and Adams Street, next to Planet Fitness, near Best Buy', '1861 Adams St', 'Suite 100']",Mankato,MN,56001,(507) 388-5200
+"['Sleep Number ', 'Atlanta']","['Across from Lenox Square Mall', '3435 Lenox Road NE', 'Atlanta']",Atlanta,GA,30326,(404) 467-2454
+"['Sleep Number ', 'Valdosta']","['Across from Valdosta Mall on Norman Blvd.', '1701 Norman Drive', 'Suite C']",Valdosta,GA,31601,(229) 219-1134
+"['Sleep Number ', 'Lawrenceville']","['Next to Wild Wing Café', '1250 Scenic Highway', 'Suite 1224']",Lawrenceville,GA,30045,(678) 534-3590
+"['Sleep Number ', 'Missoula']","['north of American Way, next to Fuddruckers', '2755 N Reserve St.', '#130']",Missoula,MT,59808,(406) 549-8834
+"['Sleep Number ', 'Saint Petersburg']","['South of T.J. Maxx, across from Publix', '1601 66th St. N', 'Saint Petersburg']",Saint Petersburg,FL,33710,(727) 344-4488
+"['Sleep Number ', 'Savannah']","['In the Chatham Plaza across from Oglethorpe Mall', '7805 Abercorn Street', 'Suite 28']",Savannah,GA,31406,(912) 691-2208
+"['Sleep Number ', 'Stuart']","['In front of Marshalls and Best Buy', '2507 NW Federal Hwy.', 'Stuart']",Stuart,FL,34994,(772) 206-4866
+"['Sleep Number ', 'Ft. Myers']","['East side of US41, one block north of College Pkwy.', '12641  S Cleveland Ave', 'Unit 102']",Ft. Myers,FL,33907,(239) 275-4360
+"['Sleep Number ', 'Buford']","['Mall Location - Level 1, near Sephora', '3333 Buford Drive', 'Space 1048']",Buford,GA,30519,(678) 482-6912
+"['Sleep Number ', 'Macon']","[""Near Dillard's"", '5080 Riverside Drive', 'Suite 410']",Macon,GA,31210,(478) 238-6353
+"['Sleep Number ', 'Tallahassee']","['On Magnolia Dr. next to Buffalo Wild Wings', '346 S Magnolia Dr', 'Unit 3']",Tallahassee,FL,32301,(850) 942-9888
+"['Sleep Number ', 'Port Richey']","['located on US Hwy 19 next to T-Mobile and Starbucks', '9239 US Hwy. 19', 'Port Richey']",Port Richey,FL,34668,(727) 645-4170
+"['Sleep Number ', 'Clearwater']","[""Second level, near Dillard's"", '27001 US 19', 'Space 2020']",Clearwater,FL,33761,(727) 726-0343
+"['Sleep Number ', 'Augusta']","['Jared The Galleria of Jewelry', '3450 Wrightsboro Road', '#A205']",Augusta,GA,30909,(706) 736-3013
+"['Sleep Number ', 'Tampa']","['Mall Location - Citrus Park Mall-Level 1', '8067 Citrus Park Town Center', 'Tampa']",Tampa,FL,33625,(813) 792-9600
+"['Sleep Number ', 'Athens']","['Epps Bridge Centre next to Vitamin Shoppe', '1789 Oconee Connector', 'Suite B']",Athens,GA,30606,(706) 543-0993
+"['Sleep Number ', 'Orlando']","['at Millenia, in front of Target', '4702 Millenia Plaza Way', 'Suite A']",Orlando,FL,32839,(321) 275-1430
+"['Sleep Number ', 'Lutz']","['in Cypress Creek Town Center, next to Chipotle Mexican Grill', '25426 Sierra Center Blvd', 'Lutz']",Lutz,FL,33559,(813) 991-9191
+"['Sleep Number ', 'Tampa']","['Corner of West Shore and Spruce', '1822 N West Shore Blvd', 'Tampa']",Tampa,FL,33607,(813) 348-6336
+"['Sleep Number ', 'Orlando']","['In front of The Home Depot', '326 N Alafaya Trail', 'Orlando']",Orlando,FL,32828,(407) 277-9727
+"['Sleep Number ', 'Vacaville']","['Next to The Vitamin Shoppe', '1615 E Monte Vista Ave', 'Suite 101']",Vacaville,CA,95688,(707) 434-8453
+"['Sleep Number ', 'Sarasota']","['West of Honore on Fruitville Rd', '5077 Fruitville Rd', 'Space 101']",Sarasota,FL,34232,(941) 924-1118
+"['Sleep Number ', 'Winter Park']","[""across from Trader Joe's"", '200 Orlando Ave', 'Suite 102']",Winter Park,FL,32789,(407) 573-5414
+"['Sleep Number ', 'Port Charlotte']","[""Next to Carrabba's"", '1851 Tamiami Trail', 'Unit 102']",Port Charlotte,FL,33948,(941) 222-0730
+"['Sleep Number ', 'Orlando']","['Mall Location - Inside the new Dining Pavilion (We are currently updating iOS maps. Please use Google maps.)', '8001 S Orange Blossom Trail', 'Space 190']",Orlando,FL,32809,(407) 851-4441
+"['Sleep Number ', 'Brentwood']","[""Next to BJ's Restaurant and Starbucks"", '2375 Sand Creek Rd', 'Suite 108']",Brentwood,CA,94513,(925) 634-1936
+"['Sleep Number ', 'Brandon']","['Mall Location - Near the Food Court', '418 Brandon Town Center Drive', 'Brandon']",Brandon,FL,33511,(813) 681-3902
+"['Sleep Number ', 'Santa Clara']","[""Mall Location - 2nd level by Macy's Men's"", '2855 Stevens Creek Blvd', 'Suite B329']",Santa Clara,CA,95050,(408) 557-0313
+"['Sleep Number ', 'Pleasanton']","['Mall Location - Lower level, near JCPenney', '1044 Stoneridge Mall', 'Pleasanton']",Pleasanton,CA,94588,(925) 734-0649
+"['Sleep Number ', 'Fremont']","['By Century Theaters and Target', '43838 Pacific Commons Blvd', 'Fremont']",Fremont,CA,94538,(510) 252-1604
+"['Sleep Number ', 'Walnut Creek']","['Next to Starbucks on the corner of Mt Diablo and Locust', '1619 Mt Diablo Blvd', 'Walnut Creek']",Walnut Creek,CA,94596,(925) 939-3116
+"['Sleep Number ', 'San Jose']","['Mall Location - Across from Old Navy', '925 Blossom Hill Rd', 'Space 1096']",San Jose,CA,95123,(408) 224-1485
+"['Sleep Number ', 'Lakeland']","['North of I-4 on the West side of Hwy 98 N', '3700 US Highway 98 N', 'Suite 109']",Lakeland,FL,33809,(863) 450-1025
+"['Sleep Number ', 'San Francisco']","['Corner of Masonic and Geary next to Target', '2675 Geary Blvd', 'Space B-100']",San Francisco,CA,94118,(415) 749-1108
+"['Sleep Number ', 'Pinole']","[""Next to Mel's Diner on Fitzgerald"", '1471 Fitzgerald Drive', 'Ste 103']",Pinole,CA,94564,(510) 223-1100
+"['Sleep Number ', 'Gilroy']","['Corner of Camino Arroyo and Hwy. 152', '7050 Camino Arroyo', 'Suite 101']",Gilroy,CA,95020,(408) 842-1056
+"['Sleep Number ', 'Daly City']","['in the Gellert Marketplace, across from Bassett Furniture', '309 Gellert Blvd', 'Suite A']",Daly City,CA,94015,(415) 508-4680
+"['Sleep Number ', 'Santa Rosa']","['Across from Target', '2350 Santa Rosa Ave', 'Santa Rosa']",Santa Rosa,CA,95407,(707) 575-0111
+"['Sleep Number ', 'Mountain View']","['Corner of El Camino Real and San Antonio Road', '2580 West El Camino Real', 'Suite 6']",Mountain View,CA,94040,(650) 917-9220
+"['Sleep Number ', 'Emeryville']","[""Next to Bath and Body Works and See's Candies"", '5683 Bay Street', 'Emeryville']",Emeryville,CA,94608,(510) 594-7410
+"['Sleep Number ', 'Monterey']","['In Del Monte Shopping Center, next to Pottery Barn', '330 Del Monte Center', 'Monterey']",Monterey,CA,93940,(831) 393-2000
+"['Sleep Number ', 'Concord']","['Diamond Blvd., next to Veranda LUXE Cinema & IMAX', '2095 Diamond Blvd.', 'Suite 155']",Concord,CA,94520,(925) 326-2295
+"['Sleep Number ', 'Petaluma']","['Across from Target Shopping Center next to FedEx', '901 E Washington', '#101']",Petaluma,CA,94952,(707) 773-3388
+"['Sleep Number ', 'Redwood City']","['Between Whipple & Hopkins Ave', '570 El Camino Real', 'Suite 100']",Redwood City,CA,94063,(650) 474-0137
+"['Sleep Number ', 'Rego Park']","[""Across from Trader Joe's"", '90-04 Metropolitan Ave.', 'Rego Park']",Rego Park,NY,11374,(917) 398-9167
+"['Sleep Number ', 'New York']","['near the Flatiron Building', '136 5th Ave.', 'New York']",New York,NY,10011,(646) 904-8880
+"['Sleep Number ', 'Garden City']","['Across from Nordstrom Rack', '870A Old Country Road', 'Garden City']",Garden City,NY,11530,(516) 747-8587
+"['Sleep Number ', 'Holyoke']","['Mall Location - 2nd floor, near Target', '50 Holyoke St', 'Space B320']",Holyoke,MA,01040,(413) 552-3690
+"['Sleep Number ', 'Kapolei']","['northwest corner of Kalaeloa Blvd. and Kapolei Pkwy.', '4460 Kapolei Pkwy', 'Space 410']",Kapolei,HI,96707,(808) 638-3972
+"['Sleep Number ', 'White Plains']","['2nd level between Nordstrom and Neiman Marcus', '125 Westchester Ave', 'Suite 2280']",White Plains,NY,10601,(914) 824-9385
+"['Sleep Number ', 'Waterford']","['On Rt 85, Water Commons Plaza', '915 Hartford Turnpike', 'Suite 28B']",Waterford,CT,06385,(860) 444-8882
+"['Sleep Number ', 'Middletown']","['Mall Location - Level 2, Next To Loft', '1 North Galleria Drive', 'Space D205']",Middletown,NY,10941,(845) 692-1900
+"['Sleep Number ', 'Yonkers']","['Across from LL Bean', '77 Market Street', 'Yonkers']",Yonkers,NY,10710,(914) 476-6096
+"['Sleep Number ', 'Nanuet']","['Mall Location - Next to Starbucks', '1133 Fashion Drive', 'Nanuet']",Nanuet,NY,10954,(845) 623-3200
+"['Sleep Number ', 'Lake Grove']","['near Aldi, next to IHOP', '145 Alexander Ave.', 'Lake Grove']",Lake Grove,NY,11755,(631) 724-6070
+"['Sleep Number ', 'Paramus']","['Mall Location - Lower level, by Nordstrom', '1069 Garden State Plaza', 'Paramus']",Paramus,NJ,07652,(201) 712-9099
+"['Sleep Number ', 'Melville']","['Across from Steinway Pianos on Route 110', '520 Walt Whitman Rd', 'Melville']",Melville,NY,11747,(631) 549-7000
+"['Sleep Number ', 'Fairfield']","['Across from Whole Foods', '340 Grasmere Ave', 'Fairfield']",Fairfield,CT,06825,(203) 255-0530
+"['Sleep Number ', 'Bay Shore']","[""Mall Location - Near Macy's"", '1701 Sunrise Hwy', 'Space M-60']",Bay Shore,NY,11706,(631) 665-7070
+"['Sleep Number ', 'Jackson']","['Next to Buffalo Wild Wings', '1232 Vann Dr', 'Jackson']",Jackson,TN,38305,(731) 664-1013
+"['Sleep Number ', 'Milford']","['Across from Milford Marketplace', '1615 Boston Post Rd.', 'Milford']",Milford,CT,06460,(203) 301-3280
+"['Sleep Number ', 'West Hartford']","['Between DSW and Barnes & Noble', '1593 New Britain Ave', 'West Hartford']",West Hartford,CT,06110,(860) 313-0405
+"['Sleep Number ', 'Rogers']","['next to Best Buy on Pinnacle Hills Blvd.', '2204 S Promenade Blvd', 'Suite 4']",Rogers,AR,72758,(479) 246-9010
+"['Sleep Number ', 'Germantown']","['Next to Starbucks', '7564 Poplar Ave.', 'Suite 101']",Germantown,TN,38138,(901) 624-0601
+"['Sleep Number ', 'Danbury']","['Across from Mall on Sugar Hollow Road', '3 Sugar Hollow Rd', 'Ste 3B']",Danbury,CT,06810,(203) 748-0121
+"['Sleep Number ', 'Southaven']","['Near Starbucks and Malco Theaters', '200 Goodman Rd East', 'Ste 105']",Southaven,MS,38671,(662) 772-5966
+"['Sleep Number ', 'Monroe']","['Mall Location - Center Court, near Sears', '4700 Millhaven Rd', 'Suite 1146']",Monroe,LA,71203,(318) 410-0086
+"['Sleep Number ', 'South Windsor']","[""Next to L'Occitane Provence opposite Williams Sonoma"", '201 Evergreen Way', 'Suite 249']",South Windsor,CT,06074,(860) 644-8464
+"['Sleep Number ', 'Springfield']","['Next to the Commerce Bank', '1315 E Battlefield Rd', 'Suite 104']",Springfield,MO,65804,(417) 885-1394
+"['Sleep Number ', 'Jonesboro']","['Across from Starbucks', '2316 Red Wolf Blvd.', 'Suite B']",Jonesboro,AR,72401,(870) 932-2474
+"['Sleep Number ', 'Joplin']","['Mall Location - Near JCPenney', '101 N Range Line Rd', 'Space 226']",Joplin,MO,64801,(417) 623-3233
+"['Sleep Number ', 'Cape Girardeau']","['Across from Target', '157 Siemers Drive', 'Suite 108']",Cape Girardeau,MO,63701,(573) 803-4277
+"['Sleep Number ', 'Columbia']","['Mall Location - 2nd Floor, in between Sears and JCPenney', '10300 Little Patuxent Parkway', 'Suite 2345']",Columbia,MD,21044,(410) 740-8565
+"['Sleep Number ', 'Memphis']","[""Mall Location - Macy's Wing by Verizon"", '2760 N Germantown Drive', 'Suite 1590']",Memphis,TN,38133,(901) 381-0126
+"['Sleep Number ', 'North Little Rock']","['Outside McCain Mall, next to Red Lobster', '3711 McCain Blvd.', 'North Little Rock']",North Little Rock,AR,72116,(501) 859-0540
+"['Sleep Number ', 'Towson']","['Mall Location - 3rd level next to Steve Madden', '825 Dulaney Valley Road', 'Space 3350']",Towson,MD,21204,(410) 823-3664
+"['Sleep Number ', 'Deptford']","['Mall Location - Lower level, next to Ruby Tuesday', '1750 Deptford Center Road', 'Suite 1242']",Deptford,NJ,08096,(856) 251-9508
+"['Sleep Number ', 'Glen Mills']","['In Wegmans Shopping Center', '1731 Wilmington Pike', 'Suite Ex-A']",Glen Mills,PA,19342,(610) 358-1921
+"['Sleep Number ', 'Owings Mills']","['South of intersection of Painters Mill Rd., and Reisterstown Rd., near Wegmans', '10010 Reisterstown Rd.', 'Suite 10']",Owings Mills,MD,21117,(443) 641-0140
+"['Sleep Number ', 'Hanover']","['Mall Location - Near Bed, Bath & Beyond', '7000 Arundel Mills Circle', 'Suite 505']",Hanover,MD,21076,(443) 755-0200
+"['Sleep Number ', 'Little Rock']","['Near Chenal 9 Theatres with IMAX', '17721 Chenal Parkway', 'Suite B101']",Little Rock,AR,72223,(501) 821-0063
+"['Sleep Number ', 'Mays Landing']","['east of AC Expy. Exit 12, across from Hamilton Commons', '4300 E Black Horse Pike', 'Suite 220']",Mays Landing,NJ,08330,(609) 829-9180
+"['Sleep Number ', 'Sicklerville']","[""Next to Carter's"", '611 Cross Keys Road', 'Suite B227']",Sicklerville,NJ,08081,(856) 740-0880
+"['Sleep Number ', 'Springfield']","['Mall Location - 2nd Floor, Center', '1250 Baltimore Pike', 'Space U10A']",Springfield,PA,19064,(610) 544-2461
+"['Sleep Number ', 'Annapolis']","[""across from Victoria's Secret near JCPenny"", '1540 Annapolis Mall', 'Annapolis']",Annapolis,MD,21401,(410) 573-1710
+"['Sleep Number ', 'Bowie']","[""Near Macy's"", '15415 Emerald Way', '#D03']",Bowie,MD,20716,(301) 262-6255
+"['Sleep Number ', 'Hunt Valley']","['Located between Chico’s & White House Black Market', '116 Shawan Rd.', 'Suite 4']",Hunt Valley,MD,21030,(443) 391-8405
+"['Sleep Number ', 'Bel Air']","['Mall Location - Next to the Main Entrance', '696A Bel Air Rd', 'Space J12']",Bel Air,MD,21014,(443) 356-4402
+"['Sleep Number ', 'Tupelo']","[""Mall Location - Near Food Court entrance, next to Chico's"", '1001 Barnes Crossing Road', 'Space 720']",Tupelo,MS,38804,(662) 844-6742
+"['Sleep Number ', 'Newark']","[""Mall Location - Between Macy's and Target"", '433 Christiana Mall Rd', 'Newark']",Newark,DE,19702,(302) 266-6624
+"['Sleep Number ', 'Baltimore']","[""Mall Location - 2nd Floor, Near Macy's and Sears"", '8200 Perry Hall Road', 'Space 2280']",Baltimore,MD,21236,(410) 931-9700
+"['Sleep Number ', 'Hillsboro']","[""Next to Verizon and Stanford's"", '2790 NW 188th Ave.', 'Hillsboro']",Hillsboro,OR,97124,(503) 372-6920
+"['Sleep Number ', 'Salem']","['between Starbucks and Roth’s Fresh Market', '3165 Commercial St SE', 'Suite 103']",Salem,OR,97302,(971) 304-0995
+"['Sleep Number ', 'Albany']","['Next to Ruby Tuesday', '2630 Dawson Rd.', 'Suite 2']",Albany,GA,31707,(229) 299-8477
+"['Sleep Number ', 'Salisbury']","['On southbound Rt. 13 Business, across from The Centre at Salisbury', '2412-C N Salisbury Blvd.', 'Salisbury']",Salisbury,MD,21801,(410) 216-1005
+"['Sleep Number ', 'Marlton']","['Near Center Court', '500 Rte 73 S', 'Suite C18']",Marlton,NJ,08053,(856) 452-0031
+"['Sleep Number ', 'Dover']","['near Center Court', '1365 N Dupont Hwy', 'Dover']",Dover,DE,19901,(302) 678-2295
+"['Sleep Number ', 'Puyallup']","['Corner of 168th and Meridian Ave., in the Rainier View Marketplace', '16802 Meridian East', 'Suite 100']",Puyallup,WA,98375,(206) 480-1105
+"['Sleep Number ', 'Tukwila']","['Next to IHOP', '17250 Southcenter Pkwy.', 'Suite 100']",Tukwila,WA,98188,(206) 433-3847
+"['Sleep Number ', 'Douglasville']","[""Mall Location - near Macy's in Center Court"", '6700 Douglas Boulevard', 'Suite 1390']",Douglasville,GA,30135,(678) 391-0662
+"['Sleep Number ', 'Huntsville']","[""Mall Location - 2nd floor, near Dillard's"", '2801 Memorial Pkwy SW', 'Huntsville']",Huntsville,AL,35801,(256) 864-2013
+"['Sleep Number ', 'Madison']","['Off Hwy. 72, in front of Kohls, next to Outback Steakhouse', '7626 U.S. Hwy. 72', 'Suite 100']",Madison,AL,35758,(256) 346-0403
+"['Sleep Number ', 'Bellevue']","[""across from Bose, outside Nordstrom Men's"", '1006 Bellevue Square', 'Bellevue']",Bellevue,WA,98004,(425) 450-4013
+"['Sleep Number ', 'Olympia']","[""Mall Location - Between Macy's and Forever 21"", '625 Black Lake Blvd', 'Suite 333']",Olympia,WA,98502,(360) 236-0492
+"['Sleep Number ', 'Hattiesburg']","['Near Talbots', '6156 US Hwy 98 West', 'Suite 90']",Hattiesburg,MS,39402,(601) 264-3015
+"['Sleep Number ', 'Tacoma']","['Inside the mall, across from the Cheesecake Factory', '4502 South Steele Street', 'Suite 804A']",Tacoma,WA,98409,(253) 472-6476
+"['Sleep Number ', 'Daphne']","['off Hwy. 90, across from The Home Depot', '6935 US Highway 90', 'Suite 202']",Daphne,AL,36526,(251) 304-9945
+"['Sleep Number ', 'Dothan']","['Across from Wiregrass Commons', '3431 Montgomery Hwy', 'Suite 1']",Dothan,AL,36303,(334) 792-1113
+"['Sleep Number ', 'Anchorage']","['next to Target & Cabela’s', '320 W. 100th Ave.', 'Anchorage']",Anchorage,AK,99515,(907) 349-0164
+"['Sleep Number ', 'Bellingham']","['East of Interstate 5 and Costco', '4210 Meridian Street', 'Bellingham']",Bellingham,WA,98226,(360) 671-1266
+"['Sleep Number ', 'Issaquah']","['On the corner of Highlands Dr. next to Regal Cinemas Issaquah Highlands', '1624 Highlands Dr NE', 'Suite 120']",Issaquah,WA,98029,(425) 365-0220
+"['Sleep Number ', 'Opelika']","['2065 Interstate Drive', 'Unit B-2']",Opelika,AL,36801,(334) 737-6964
+"['Sleep Number ', 'Silverdale']","['Intersection of Hwy. 3 and Hwy. 303', '11066 Pacific Crest Place NW', 'Suite A-170']",Silverdale,WA,98383,(360) 698-7601
+"['Sleep Number ', 'Lynnwood']","['Center Court, Near Williams Sonoma', '3000 184th Street SW', 'Space 964']",Lynnwood,WA,98037,(425) 775-3540
+"['Sleep Number ', 'Tuscaloosa']","['Next to Texas Roadhouse', '1397 McFarland Blvd. E.', 'Tuscaloosa']",Tuscaloosa,AL,35404,(205) 535-3710
+"['Sleep Number ', 'Birmingham']","['Hwy. 280 near Chick-fil-A', '4618 Hwy 280', 'Suite 100']",Birmingham,AL,35242,(205) 981-3006
+"['Sleep Number ', 'Birmingham']","['Mall Location - Upper level, near Center Court', '3000 Riverchase Galleria', 'Birmingham']",Birmingham,AL,35244,(205) 989-6662
+"['Sleep Number ', 'Pensacola']","[""Next to Jason's Deli across from Sacred Heart"", '1550 Airport Blvd', 'Pensacola']",Pensacola,FL,32504,(850) 477-5070
+"['Sleep Number ', 'Columbus']","['Next to Krispy Kreme', '6759 Veterans Parkway', 'Columbus']",Columbus,GA,31909,(706) 322-0152
+"['Sleep Number ', 'El Paso']","['Next to USAA Credit Union', '8889 Gateway Blvd West', 'Suite 1210']",El Paso,TX,79925,(915) 594-4060
+"['Sleep Number ', 'Marysville']","['Marketplace at Smokey Point, near Dick’s Sporting Goods', '2631 172nd St. NE', 'Suite 101']",Marysville,WA,98271,(360) 502-7105
+"['Sleep Number ', 'Peachtree City']","[""West of Central Park, near Moe's"", '502 Circle Gate', 'Suite 1720']",Peachtree City,GA,30269,(770) 632-9330
+"['Sleep Number ', 'Casper']","['in Triangle Plaza on 2nd St., across from The Home Depot', '4845 E 2nd St', 'Casper']",Casper,WY,82609,(307) 439-0010
+"['Sleep Number ', 'Palmdale']","['Mall Location - Center Court, near the Food Court', '1233 Rancho Vista Blvd', 'Suite 765']",Palmdale,CA,93551,(661) 272-0682
+"['Sleep Number ', 'Grand Junction']","['Next to Starbucks on 25 Road', '2504 Hwy 6 & 50', 'Suite 250']",Grand Junction,CO,81505,(970) 256-7276
+"['Sleep Number ', 'Montgomery']","['Next to Books-A-Million', '7072 Eastchase Pkwy', 'Montgomery']",Montgomery,AL,36117,(334) 244-5822
+"['Sleep Number ', 'Cheyenne']","['Mall Location - Outside entrance near the Sears wing', '1400 Dell Range Blvd', 'Space 86']",Cheyenne,WY,82009,(307) 632-1365
+"['Sleep Number ', 'Temecula']","['Outside the mall, next to the Apple Store', '40764 Winchester Road', '#520']",Temecula,CA,92591,(951) 296-0663
+"['Sleep Number ', 'Colorado Springs']","[""In front of Lowe's"", '739 N Academy Boulevard', 'Colorado Springs']",Colorado Springs,CO,80909,(719) 380-7600
+"['Sleep Number ', 'Fort Collins']","['In front of Foothills Mall', '3280 S College Aveune', 'Suite 110']",Fort Collins,CO,80525,(970) 206-9829
+"['Sleep Number ', 'Colorado Springs']","['Across from Whole Foods', '7620 N Academy Blvd', 'Colorado Springs']",Colorado Springs,CO,80920,(719) 598-3240
+"['Sleep Number ', 'Aurora']","['Next to Sports Authority', '6295 S Main St', 'Suite 101']",Aurora,CO,80016,(303) 617-5337
+"['Sleep Number ', 'Pueblo']","[""in Pueblo Crossing, across from Dick's Sporting Goods"", '5931 N Elizabeth St.', 'Pueblo']",Pueblo,CO,81008,(719) 283-9663
+"['Sleep Number ', 'Northglenn']","['Near Longhorn Steakhouse', '100 East 120th Ave', 'Unit B110']",Northglenn,CO,80233,(303) 280-2964
+"['Sleep Number ', 'Loveland']","[""South of Dick's Sporting Goods"", '5865 Sky Pond Drive', 'Suite G148']",Loveland,CO,80538,(970) 203-0499
+"['Sleep Number ', 'Longmont']","['At the Peaks Shopping Center', '1248 S Hover Street', 'Unit 200']",Longmont,CO,80501,(303) 772-2436
+"['Sleep Number ', 'Eugene']","['Across from Valley River Center', '1125 Valley River Drive', 'Suite A']",Eugene,OR,97401,(541) 302-3351
+"['Sleep Number ', 'Lone Tree']","[""near Dillard's next to Build-A-Bear"", '8505 Park Meadow Center Drive', 'Suite 2036']",Lone Tree,CO,80124,(303) 799-4993
+"['Sleep Number ', 'Littleton']","['Aspen Grove Lifestyle Center near Panera Bread', '7301 S Santa Fe Drive', 'Suite 722']",Littleton,CO,80120,(303) 933-4110
+"['Sleep Number ', 'Palm Desert']","['On Hwy 111- In the Whole Foods Shopping Center', '44489 Town Center Way', 'Suite A']",Palm Desert,CA,92260,(760) 836-3200
+"['Sleep Number ', 'Broomfield']","['Near the food court, across from Pottery Barn', '1 West FlatIron Crossing Drive', 'Space 2258']",Broomfield,CO,80021,(720) 887-9800
+"['Sleep Number ', 'Albuquerque']","['next to Panera Bread on State Hwy. 528, across from Whataburger', '3600 State Highway 528', 'Albuquerque']",Albuquerque,NM,87114,(505) 898-2878
+"['Sleep Number ', 'Las Vegas']","[""Downtown Summerlin, near Trader Joe's"", '11035 Lavender Hills Dr', 'Suite 100']",Las Vegas,NV,89135,(702) 998-5074
+"['Sleep Number ', 'Destin']","['Across from Henderson Beach State Park', '34761 Emerald Coast Pkwy.', 'Suite 1']",Destin,FL,32541,(850) 460-3511
+"['Sleep Number ', 'Las Vegas']","['Near Whole Foods', '6695 Las Vegas Blvd.', 'Space A-185']",Las Vegas,NV,89119,(702) 757-2204
+"['Sleep Number ', 'Farmington']","['Near Target', '5000 E. Main St', '#106']",Farmington,NM,87402,(505) 209-9655
+"['Sleep Number ', 'Lakewood']","['On Denver West-Colfax Ave.', '14025 W Colfax Drive', 'Lakewood']",Lakewood,CO,80401,(303) 216-1825
+"['Sleep Number ', 'Delafield']","['Located at NEQ of Hwy 83 and   i-94', '2916 Golf Road', 'Delafield']",Delafield,WI,53018,(262) 646-9591
+"['Sleep Number ', 'Novi']","['Mall Location - Lower level, near Lord and Taylor', '27690 Novi Rd', 'Space D-183']",Novi,MI,48377,(248) 735-4512
+"['Sleep Number ', 'Tucson']","['Northwest corner of Broadway and Craycroft', '5465 E Broadway Blvd', 'Tucson']",Tucson,AZ,85711,(520) 745-2625
+"['Sleep Number ', 'Albuquerque']","['southwest corner of Louisiana & Menaul Blvd. near Barnes & Noble', '6600 Menaul Blvd. NE', 'Albuquerque']",Albuquerque,NM,87110,(505) 999-5814
+"['Sleep Number ', 'Auburn Hills']","['in District 3 of Great Lakes Crossing Mall', '4110 Baldwin Rd', 'Suite 329']",Auburn Hills,MI,48326,(248) 319-6050
+"['Sleep Number ', 'Henderson']","['By Home Depot', '1124 W Sunset Road', 'Henderson']",Henderson,NV,89014,(702) 433-5335
+"['Sleep Number ', 'Ann Arbor']","['Near Starbucks', '3597-C Washtenaw Ave', 'Ann Arbor']",Ann Arbor,MI,48104,(734) 973-5883
+"['Sleep Number ', 'Grafton']","['corner of Washington St. and County Hwy. W, next to AT&T', '1205 Port Washington Rd.', 'Grafton']",Grafton,WI,53024,(262) 618-7550
+"['Sleep Number ', 'Denver']","['Across from Whole Foods and Home Depot', '895 S Colorado Blvd', 'Denver']",Denver,CO,80246,(303) 377-3093
+"['Sleep Number ', 'Rochester Hills']","[""Off Market Lane - behind Max and Erma's"", '130 N Adams Rd', 'Rochester Hills']",Rochester Hills,MI,48309,(248) 230-4750
+"['Sleep Number ', 'Greenfield']","[""On the corner of 76th & Edgerton, next to Men's Warehouse"", '5096 South 76th St', 'Greenfield']",Greenfield,WI,53220,(414) 421-7164
+"['Sleep Number ', 'Wauwatosa']","['Across from Panera Bread', '2500 N Mayfair Dr', 'Wauwatosa']",Wauwatosa,WI,53226,(414) 476-4360
+"['Sleep Number ', 'Pleasant Prairie']","['In front of Costco', '9250 76th St.', 'Suite B']",Pleasant Prairie,WI,53158,(262) 214-1357
+"['Sleep Number ', 'Washington']","['at the corner of W Red Cliffs Dr. and S Green Springs Dr.', '880 W Red Cliffs Dr.', 'Suite D']",Washington,UT,84780,(435) 359-0950
+"['Sleep Number ', 'Appleton']","[""Mall Location - Macy's wing"", '4301 W Wisconsin Ave', 'Space 401']",Appleton,WI,54913,(920) 993-0221
+"['Sleep Number ', 'Traverse City']","['Across from Panera Bread', '3664 N US 31 S', 'Unit 1']",Traverse City,MI,49684,(231) 933-9280
+"['Sleep Number ', 'Okemos']","[""Mall Location - Macy's wing, near Center Court"", '1982 West Grand River Avenue', 'Okemos']",Okemos,MI,48864,(517) 347-9844
+"['Sleep Number ', 'Flint']","['next to Huntington Bank', '4574 Miller Road', 'Flint']",Flint,MI,48507,(810) 732-8380
+"['Sleep Number ', 'Saginaw']","['East of Fashion Square Mall', '2721 Tittabawassee Rd', 'Suite 2']",Saginaw,MI,48604,(989) 791-3437
+"['Sleep Number ', 'Glendale']","[""Mall Location - 1st level near Macy's"", '7700-1155 W Arrowhead Towne Ctr', 'Glendale']",Glendale,AZ,85308,(623) 412-1000
+"['Sleep Number ', 'Holland']","['in The Shops at Westshore, near Younkers', '12377 James St.', 'Suite 10']",Holland,MI,49424,(616) 377-1085
+"['Sleep Number ', 'Avondale']","[""In front of Sportsman's Warehouse"", '10155 W McDowell Rd.', 'Suite C-100']",Avondale,AZ,85392,(623) 800-7801
+"['Sleep Number ', 'Tucson']","['SE Corner of Oracle and Wetmore', '4362 North Oracle Road', 'Suite 104']",Tucson,AZ,85705,(520) 293-6003
+"['Sleep Number ', 'Grandville']","['Mall Location - In front of JCPenney', '3700 Rivertown Parkway SW', 'Suite 2024']",Grandville,MI,49418,(616) 249-0670
+"['Sleep Number ', 'Green Bay']","[""on Oneida St., near McDonald's"", '2330 S Oneida St', 'Suite 103']",Green Bay,WI,54304,(920) 490-9319
+"['Sleep Number ', 'Norton Shores']","['Lakeshore Marketplace, in front of T.J.Maxx and Toys “R” Us', '5251 S Harvey St.', 'Suite 200']",Norton Shores,MI,49444,(231) 246-1102
+"['Sleep Number ', 'Kentwood']","['Mall Location - Across from the Apple Store', '3175 28th St SE', 'Suite E102']",Kentwood,MI,49512,(616) 949-9131
+"['Sleep Number ', 'Phoenix']","['corner of Happy Valley Road and Norterra Pkwy., next to Men’s Wearhouse', '2310 W Happy Valley Road', 'Suite 1019']",Phoenix,AZ,85085,(602) 491-9738
+"['Sleep Number ', 'Phoenix']","['North side of Camelback Colonnade, next to Discount Tire', '1846 E Camelback Rd.', 'Phoenix']",Phoenix,AZ,85016,(602) 362-6091
+"['Sleep Number ', 'Stockton']","['Corner of Pacific Ave. and W. Robinhood Dr., next to AT&T', '5756 Pacific Ave', 'Stockton']",Stockton,CA,95207,(209) 689-0937
+"['Sleep Number ', 'Folsom']","['Near Whole Foods', '290 Palladio Pkwy.', 'Suite 855']",Folsom,CA,95630,(916) 983-7862
+"['Sleep Number ', 'Visalia']","['Corner of S. Mooney Blvd. and W. Whitendale Ave.', '2928 S. Mooney Blvd.', 'Visalia']",Visalia,CA,93277,(559) 733-3984
+"['Sleep Number ', 'Chandler']","[""Mall Location - Lower level, near Dillard's"", '3111 West Chandler Blvd', 'Suite 1080']",Chandler,AZ,85226,(480) 214-0244
+"['Sleep Number ', 'Portage']","['Mall Location - 2nd level, near Sears wing', '6650 S Westnedge', 'Space 206']",Portage,MI,49024,(269) 324-2888
+"['Sleep Number ', 'Gilbert']","['Next to Banana Republic', '2212 E Williamsfield Rd', 'Suite 110']",Gilbert,AZ,85296,(602) 433-4821
+"['Sleep Number ', 'Mesa']","['Mall Location - Upper level, near JCPenney', '6555 E Southern Ave', 'Suite 2018']",Mesa,AZ,85206,(480) 218-4304
+"['Sleep Number ', 'Santa Barbara']","['Across from Petco', '3993 State Street', 'Santa Barbara']",Santa Barbara,CA,93105,(805) 967-1361
+"['Sleep Number ', 'Fresno']","['northeast corner of N. Fresno and Shaw Ave.', '432 E Shaw Ave', 'Fresno']",Fresno,CA,93710,(559) 221-0185
+"['Sleep Number ', 'Elk Grove']","['In front of Home Depot off West Laguna', '9158 W Stockton Blvd', 'Suite 120']",Elk Grove,CA,95758,(916) 688-8696
+"['Sleep Number ', 'Bakersfield']","[""Mall Location - Near Macy's"", '2701 Ming Avenue', 'Suite 152']",Bakersfield,CA,93304,(661) 834-5802
+"['Sleep Number ', 'Modesto']","['Mall Location - Near Starbucks', '3401 Dale Road', 'Suite 260']",Modesto,CA,95356,(209) 572-3736
+"['Sleep Number ', 'Scottsdale']","['South of Frank Lloyd Wright Blvd., on Scottsdale Rd., across from the Promenade', '16500 N Scottsdale Rd.', 'Scottsdale']",Scottsdale,AZ,85254,(602) 953-3300
+"['Sleep Number ', 'Sioux Falls']","['Across from Starbucks', '3600 W 41st Street', 'Sioux Falls']",Sioux Falls,SD,57106,(605) 362-1593
+"['Sleep Number ', 'Eau Claire']","['Outside Oakwood Mall', '4734 Golf Road', 'Eau Claire']",Eau Claire,WI,54701,(715) 830-5413
+"['Sleep Number ', 'Edina']","['Across from The Container Store on France Ave.', '3871 Gallagher Drive', 'Edina']",Edina,MN,55435,(952) 927-7502
+"['Sleep Number ', 'Woodbury']","['corner of Radio Dr. and Tamarack Road, in front of Life Time Fitness', '740 Commons Dr', 'Woodbury']",Woodbury,MN,55125,(651) 702-9225
+"['Sleep Number ', 'Bloomington']","[""Mall Location - Level 2, near Macy's"", '256 S Avenue', 'Bloomington']",Bloomington,MN,55425,(952) 858-9531
+"['Sleep Number ', 'Eden Prairie']","['Near Flying Cloud Dr. and Prairie Center Dr.', '590 Prairie Center Drive', 'Suite 110']",Eden Prairie,MN,55344,(952) 943-9541
+"['Sleep Number ', 'Roseville']","['Across from Rosedale Mall', '1719 County Rd B2 West', 'Roseville']",Roseville,MN,55113,(651) 631-0962
+"['Sleep Number ', 'Fairview Heights']","[""Mall Location - Lower Level, near Macy's"", '194 St Clair Square', 'Fairview Heights']",Fairview Heights,IL,62208,(618) 632-2914
+"['Sleep Number ', 'Saint Louis']","['Across from the Galleria', '1016 S Brentwood Blvd', 'Saint Louis']",Saint Louis,MO,63117,(314) 725-2536
+"['Sleep Number ', 'Maplewood']","['Next to Caribou Coffee', '3094 White Bear Ave', 'Maplewood']",Maplewood,MN,55109,(651) 748-0353
+"['Sleep Number ', 'St. Louis']","['Across from South County Center', '7333 S Lindbergh Blvd', 'Suite B']",St. Louis,MO,63125,(314) 815-3012
+"['Sleep Number ', 'Minot']","['Mall Location - Center Court', '2400 10th St SW', 'Suite 405']",Minot,ND,58701,(701) 837-0957
+"['Sleep Number ', 'Rapid City']","[""Next to Starbucks and Famous Dave's"", '1734 Eglin Street', 'Suite 700']",Rapid City,SD,57701,(605) 341-3024
+"['Sleep Number ', 'Bismarck']","['In front of Dick’s Sporting Goods', '1499 E LaSalle Dr.', 'Bismarck']",Bismarck,ND,58503,(701) 495-0808
+"['Sleep Number ', 'Des Peres']","[""Mall Location - Upper level, between Nordstroms and Macy's"", '124 West County Centre', 'Space #2080']",Des Peres,MO,63131,(314) 984-8052
+"['Sleep Number ', 'Paducah']","['Across from Kentucky Oaks Mall', '5128 Hinkleville Road', 'Paducah']",Paducah,KY,42001,(270) 443-8200
+"['Sleep Number ', 'Grand Forks']","[""Across from Kohl's"", '3300 32nd Avenue South', 'Suite 102']",Grand Forks,ND,58201,(701) 757-0672
+"['Sleep Number ', 'St. Peters']","['The Shoppes at Mid Rivers in front of Ross and Marshalls', '5248 I-70 North Outer Rd', 'St. Peters']",St. Peters,MO,63376,(636) 397-2811
+"['Sleep Number ', 'Maple Grove']","['on corner of Hemlock Ln N. and Elm Creek Pkwy.', '11802 Elm Creek Blvd N', 'Maple Grove']",Maple Grove,MN,55369,(763) 315-5383
+"['Sleep Number ', 'Coon Rapids']","['Between Costco and Best Buy', '12609 Riverdale Blvd NW', 'Suite 111']",Coon Rapids,MN,55448,(763) 201-0958
+"['Sleep Number ', 'Minnetonka']","['Mall Location - Upper level, next to Big Bowl', '12637 Wayzata Blvd', 'Space 2445']",Minnetonka,MN,55305,(952) 525-1595
+"['Sleep Number ', 'Duluth']","['Next to the Miller Hill Mall', '2104 Maple Grove Road', 'Unit 110']",Duluth,MN,55811,(218) 733-9305
+"['Sleep Number ', 'Chesterfield']","['Across from Boones Crossing Target', '16890 Chesterfield Airport Rd', 'Chesterfield']",Chesterfield,MO,63005,(636) 519-9977
+"['Sleep Number ', 'St. Cloud']","['on Division in Waite Park', '4170 West Division Street', 'St. Cloud']",St. Cloud,MN,56301,(320) 252-3366
+"['Sleep Number ', 'Fargo']","['next to Verizon Wireless', '1895 45th St. S,', 'Suite E-2 & E-3']",Fargo,ND,58103,(701) 281-9666
+"['Sleep Number ', 'Baxter']","['Between Mills Ford and Menards, across from Cherry Berry', '15094 Dellwood Dr.', 'Suite 100']",Baxter,MN,56401,(218) 210-2397
+"['Sleep Number ', 'Sacramento']","['Mall Location - Across from Forever 21', '1689 Arden Way', 'Suite 1020']",Sacramento,CA,95815,(916) 922-8021
+"['Sleep Number ', 'Reno']","['Across from Whole Foods', '6350 S Virginia St.', 'Suite A']",Reno,NV,89511,(775) 448-9512
+"['Sleep Number ', 'Roseville']","['Across from Yard House', '1162 Roseville Pkwy.', 'Suite 150']",Roseville,CA,95678,(916) 788-4344
+"['Sleep Number ', 'Reno']","[""Near Dillard's"", '13925 S Virginia St', 'Suite 246']",Reno,NV,89511,(775) 853-6122
+"['Sleep Number ', 'King Of Prussia']","[""Upper level, by Bloomingdale's"", '690 West Dekalb Pike', 'King Of Prussia']",King Of Prussia,PA,19406,(610) 878-9560
+"['Sleep Number ', 'East Hanover']","['Next to REI on Route 10 West', '290 Route 10 West', 'East Hanover']",East Hanover,NJ,07936,(973) 599-1085
+"['Sleep Number ', 'Lubbock']","['Near Discount Tire', '5605 Slide Rd', 'Lubbock']",Lubbock,TX,79414,(806) 785-1845
+"['Sleep Number ', 'Totowa']","[""Next to David's Bridal on Route 46"", '578 Route 46 East', 'Totowa']",Totowa,NJ,07512,(973) 256-4851
+"['Sleep Number ', 'Midland']","['Cornerstone Shopping Center', '4400 N Midland Drive', '#706']",Midland,TX,79707,(432) 694-3080
+"['Sleep Number ', 'Rockaway']","[""Mall Location - Lower level, Macy's wing"", '301 Mount Hope Ave', 'Space 1065']",Rockaway,NJ,07866,(973) 442-1818
+"['Sleep Number ', 'Amarillo']","['in front of World Market', '3300 S Soncy Rd.', 'Suite 100']",Amarillo,TX,79124,(806) 576-0669
+"['Sleep Number ', 'Myrtle Beach']","['Mall Location - In the JCPenney wing', '2000 Coastal Grand Circle', 'Suite 305']",Myrtle Beach,SC,29577,(843) 839-9010
+"['Sleep Number ', 'Union']","['next to Costco', '1235 W Chestnut St.', 'Space G']",Union,NJ,07083,(908) 623-1700
+"['Sleep Number ', 'North Chesterfield']","['Midlothian Turnpike and Huguenot Rd.', '11546 Midlothian Turnpike', 'North Chesterfield']",North Chesterfield,VA,23235,(804) 378-5785
+"['Sleep Number ', 'Wilmington']","['Near William Sonoma', '6864 Main St', 'Wilmington']",Wilmington,NC,28405,(910) 509-2112
+"['Sleep Number ', 'Hickory']","['At Valley Hills Mall entrance', '2030 Hwy. 70 SE', 'Suite A']",Hickory,NC,28602,(828) 324-0344
+"['Sleep Number ', 'Gastonia']","['At the side entrance of Target', '2272 E Franklin Blvd', 'Suite 100']",Gastonia,NC,28054,(980) 320-8449
+"['Sleep Number ', 'Roanoke']","['Near Barnes & Noble', '4822 G Valley View Blvd,', 'Suite L-06']",Roanoke,VA,24012,(540) 265-8515
+"['Sleep Number ', 'Lynchburg']","['Near Starbucks', '3911 Wards Road', 'Suite C']",Lynchburg,VA,24502,(434) 237-0218
+"['Sleep Number ', 'Charlotte']","['Pineville-Matthews Rd half a mile from Carolinas Place Mall', '8912 Pineville Matthews Rd', 'Unit C']",Charlotte,NC,28226,(704) 543-6431
+"['Sleep Number ', 'Canton']","['Mall Location - Next to Best Buy Mobile across from Finish Line', '4285 Belden Village Mall', 'Suite A14']",Canton,OH,44718,(330) 244-0630
+"['Sleep Number ', 'Akron']","['Across from Jared', '3891G Medina Rd', 'Akron']",Akron,OH,44333,(330) 668-9132
+"['Sleep Number ', 'Dallas']","['Preston Road and W Northwest Hwy', '8421 Preston Road', 'Dallas']",Dallas,TX,75225,(469) 283-2280
+"['Sleep Number ', 'Beavercreek']","['Next to The Pub, across from Flemings', '21 Greene Blvd.', 'Space N-110']",Beavercreek,OH,45440,(937) 320-9644
+"['Sleep Number ', 'Dallas']","[""Street level by Grimaldi's Pizza and Kosmo Energy"", '8060 Park Lane', 'Suite 108']",Dallas,TX,75231,(972) 661-8790
+"['Sleep Number ', 'Strongsville']","['Mall Location - Lower level, near main entrance', '164 South Park Center', 'Strongsville']",Strongsville,OH,44136,(440) 846-1585
+"['Sleep Number ', 'Southlake']","['Near Central Market', '1251 E Southlake Blvd', 'Suite 337']",Southlake,TX,76092,(817) 251-3200
+"['Sleep Number ', 'Reynoldsburg']","['on corner of Stonetrail Way and Baltimore-Reynoldsburg Road, across from T-Mobile', '1933 Baltimore-Reynoldsburg Rd.', 'Reynoldsburg']",Reynoldsburg,OH,43068,(614) 892-7557
+"['Sleep Number ', 'Chico']","['MLK Parkway across from Costco', '2065 Dr Martin Luther King Jr Parkway', 'Suites 187 and 189']",Chico,CA,95928,(530) 343-3749
+"['Sleep Number ', 'Garland']","['Near Old Navy', '460 Coneflower Dr.', 'Space M19']",Garland,TX,75040,(972) 767-2301
+"['Sleep Number ', 'Irving']","['in The Shops at MacArthur Hills, off President George Bush Turnpike', '6911 N MacArthur Blvd.', 'Irving']",Irving,TX,75039,(469) 351-7670
+"['Sleep Number ', 'Grapevine']","['Across from Gap', '3000 Grapevine Mills Pkwy', 'Suite 225']",Grapevine,TX,76051,(972) 315-5794
+"['Sleep Number ', 'Plano']","['Across the Tollway', '2100 Dallas Parkway', 'Suite 124']",Plano,TX,75093,(469) 814-0734
+"['Sleep Number ', 'Redding']","['Target Center next to The Vitamin Shoppe', '1315 Churn Creek Road', 'Ste G2']",Redding,CA,96003,(530) 223-2300
+"['Sleep Number ', 'Denton']","[""Across from Sam's Club"", '2735 West University Drive', 'Suite 1095']",Denton,TX,76201,(940) 243-2500
+"['Sleep Number ', 'Wichita Falls']","[""Next to Kohl's and Chili's"", '3720 Call Field Rd.', 'Suite #200']",Wichita Falls,TX,76308,(940) 696-6908
+"['Sleep Number ', 'Medford']","['Next to Verizon Wireless', '1763 N Riverside Ave', 'Medford']",Medford,OR,97501,(541) 608-7043
+"['Sleep Number ', 'McKinney']","['Near LA Fitness off El Dorado Parkway', '1920 El Dorado Parkway', 'Suite 200']",McKinney,TX,75069,(972) 548-7830
+"['Sleep Number ', 'Norman']","['Near Target on Mt. Williams Drive', '1621 24th Ave NW', 'Norman']",Norman,OK,73069,(405) 364-1676
+"['Sleep Number ', 'Sherman']","['Next to Kay Jewelers', '613 E North Creek Dr.', 'Suite 300']",Sherman,TX,75092,(903) 357-5222
+"['Sleep Number ', 'Exton']","['Upper level inside Exton Mall, near Loft', '311 Exton Square Parkway', 'Suite 2665']",Exton,PA,19341,(610) 280-9956
+"['Sleep Number ', 'Hagerstown']","['Mall Location - Near Sears', '17318 Valley Mall Rd.', 'Suite B']",Hagerstown,MD,21740,(301) 582-6278
+"['Sleep Number ', 'Center Valley']","['Near Melt Restaurant', '2880 Center Valley Pkwy', 'Suite 617']",Center Valley,PA,18034,(610) 628-0580
+"['Sleep Number ', 'Frisco']","['outside Stonebriar Mall, off 121 Westbound Frontage Road near iFLY', '8440 State Hwy 121 S', 'Frisco']",Frisco,TX,75034,(972) 335-7477
+"['Sleep Number ', 'Lancaster']","['Across from Park City Center Mall', '1480 Harrisburg Pike', 'Lancaster']",Lancaster,PA,17601,(717) 391-2521
+"['Sleep Number ', 'York']","['next to Aspen Dental', '1401 Kenneth Rd.', 'Suite 400']",York,PA,17404,(717) 779-1242
+"['Sleep Number ', 'Victor']","['Near the main court, use entrance #4', '784 Eastview Mall', 'Victor']",Victor,NY,14564,(585) 223-6300
+"['Sleep Number ', 'Dublin']","['across from REI, west of Sawmill Road', '6465 Sawmill Road', 'Dublin']",Dublin,OH,43017,(614) 760-8863
+"['Sleep Number ', 'Vestal']","[""Corner of Vestal Pkwy. & Sycamore St., in front of Sam's Club"", '2549 Vestal Pkwy East', 'Suite 1']",Vestal,NY,13850,(607) 203-0230
+"['Sleep Number ', 'Camp Hill']","['Mall Location - Main mall entrance near DSW', '3557 Capital City Mall Drive', 'Camp Hill']",Camp Hill,PA,17011,(717) 307-3005
+"['Sleep Number ', 'Columbus']","['in Polaris Towne Center, next to The Clock Tower and Jo-Ann Fabrics', '1279 Polaris Pkwy', 'Columbus']",Columbus,OH,43240,(614) 468-0003
+"['Sleep Number ', 'Columbus']","['Across from Saks off 5th', '3960 Stelzer Road', 'Space N-100']",Columbus,OH,43219,(614) 471-5941
+"['Sleep Number ', 'Whitehall']","[""Mall Location - Upper level, near Macy's"", '241 Lehigh Valley Mall', 'Suite 2069']",Whitehall,PA,18052,(610) 264-1031
+"['Sleep Number ', 'Concord']","['Corner of Concord Mills Blvd. and Derita Rd., in front of Lowe’s', '8694 Concord Mills Blvd', 'Suite 40']",Concord,NC,28027,(704) 979-1360
+"['Sleep Number ', 'Anderson']","['3700 Liberty Hwy.', 'Anderson']",Anderson,SC,29621,(864) 231-6193
+"['Sleep Number ', 'Charlotte']","['Next to Buffalo Wild Wings', '9402 Northlake West Drive', 'Suite 101']",Charlotte,NC,28216,(704) 598-2092
+"['Sleep Number ', 'Mooresville']","['Southwest of River Hwy. and NC Hwy. 77, next to Starbucks', '489 River Hwy', 'Suite 862']",Mooresville,NC,28117,(980) 444-5281
+"['Sleep Number ', 'Asheville']","[""near intersection of Tunnel Rd. and S. Tunnel Rd., next to Men's Wearhouse"", '15 Peaks Center Lane', 'Suite 45']",Asheville,NC,28805,(828) 298-7334
+"['Sleep Number ', 'Greenville']","['Near Fresh Market', '920 Criswell Drive', 'Suite 101']",Greenville,NC,27834,(252) 355-5522
+"['Sleep Number ', 'Moosic']","['Near Panera Bread', '1131 Shoppes Blvd', 'Suite 1131']",Moosic,PA,18507,(570) 961-0525
+"['Sleep Number ', 'Columbia']","['Across from Buffalo Wild Wings', '189 Harbison Blvd', 'Suite B']",Columbia,SC,29212,(803) 732-0204
+"['Sleep Number ', 'Winston Salem']","['Mall Location - Upper level, near Sears', '3320 Silas Creek Pkwy', 'Suite 652']",Winston Salem,NC,27103,(336) 659-4757
+"['Sleep Number ', 'Spartanburg']","['Across from the Westgate Mall', '210 W Blackstock Rd', 'Suite 120']",Spartanburg,SC,29301,(864) 595-8172
+"['Sleep Number ', 'North Charleston']","['at intersection of Rivers Ave. and Ashley Phosphate Road, next to Starbucks', '7381 Rivers Ave', 'Suite 102']",North Charleston,SC,29406,(843) 628-5692
+"['Sleep Number ', 'Greenville']","['In Magnolia Park Development', '1025 Woodruff Road', 'Suite A101']",Greenville,SC,29607,(864) 675-0364
+"['Sleep Number ', 'Greensboro']","['Near Costco in Wendover Village', '4205 W Wendover Ave', 'Suite A']",Greensboro,NC,27407,(336) 297-2106
+"['Sleep Number ', 'Matthews']","[""Corner of East Independence Blvd and Windsor Square Dr in front of Sam's Club"", '9727 E Independence Blvd.', 'Matthews']",Matthews,NC,28105,(980) 265-3185
+"['Sleep Number ', 'Columbia']","['Near Sandhills Mall on Two-Notch Road', '10254 Two Notch Road', 'Suite A']",Columbia,SC,29229,(803) 462-6926
+"['Sleep Number ', 'Wyomissing']","['Across from Elevation Burger', '710 Woodland Road West', 'Suite W']",Wyomissing,PA,19610,(484) 334-2278
+"['Sleep Number ', 'Holly Springs']","['next to Tijuana Flats near Target', '153 Grand Hill Pl', 'Holly Springs']",Holly Springs,NC,27540,(919) 355-0799
+"['Sleep Number ', 'Raleigh']","['Mall Location - Lower level, adjacent to Sears', '4325 Glenwood Ave', 'Raleigh']",Raleigh,NC,27612,(919) 781-7799
+"['Sleep Number ', 'Fayetteville']","[""Mall Location - Outside entrance next to Macy's"", '705 Cross Creek Mall', 'Suite 200']",Fayetteville,NC,28303,(910) 864-5852
+"['Sleep Number ', 'Staten Island']","['lower level next to Sephora in the Macy’s wing', '2655 Richmond Ave', 'Suite 1555']",Staten Island,NY,10314,(929) 259-8540
+"['Sleep Number ', 'Durham']","['in the Main Street area, across from Apple', '8030 Renaissance Parkway', 'Suite 860']",Durham,NC,27713,(919) 361-3414
+"['Sleep Number ', 'Warrington']","[""Between P.F. Chang's China Bistro and Bar Louie"", '1520 Main Street', 'Suite 804']",Warrington,PA,18976,(215) 343-0604
+"['Sleep Number ', 'Elizabethtown']","['Next to Firehouse Subs', '1570 N. Dixie Hwy.', 'Suite 104']",Elizabethtown,KY,42701,(270) 986-7169
+"['Sleep Number ', 'Cary']","['in front of Target and The Home Depot, next to OfficeMax', '2007 Walnut St', 'Suite 100']",Cary,NC,27518,(919) 461-1707
+"['Sleep Number ', 'Bridgewater']","[""Mall Location - Lower level, near Macy's"", '400 Commons Way', 'Suite 1053']",Bridgewater,NJ,08807,(908) 707-3626
+"['Sleep Number ', 'Lawrenceville']","['Mall Location - Next to Cheescake Factory', '149 Quaker Bridge Mall', 'Suite 1043']",Lawrenceville,NJ,08648,(609) 297-1567
+"['Sleep Number ', 'Metuchen']","['Rt. 1 & Ford Ave, near Vitamin Shoppe', '171 US Hwy 1 South', 'Suite 1']",Metuchen,NJ,08840,(732) 494-1975
+"['Sleep Number ', 'San Antonio']","['Corner of Hwy. 281 and TPC Pkwy.', '22118 U.S. Hwy. 281', 'Suite 102']",San Antonio,TX,78258,(210) 981-1404
+"['Sleep Number ', 'Bowling Green']","[""Mall Location - Next to Men's Warehouse"", '2625 Scottsville Rd', 'Space 550']",Bowling Green,KY,42104,(270) 781-0889
+"['Sleep Number ', 'Kennesaw']","['Mall Location - 2nd Floor, Near Sears, next to Disney', '400 Ernest Barrett Pkwy', 'Suite 113']",Kennesaw,GA,30144,(770) 427-9404
+"['Sleep Number ', 'Knoxville']","['Located on Kingston Pike & West Hills', '7731 Kingston Pike', 'Suite 101']",Knoxville,TN,37919,(865) 297-5030
+"['Sleep Number ', 'Langhorne']","['Mall Location - Upper level, near Sears', '2300 East Lincoln Highway', 'Space 258']",Langhorne,PA,19047,(215) 757-4711
+"['Sleep Number ', 'San Antonio']","[""Near Macy's, across from Gap"", '15900 La Cantera Pkwy', 'Suite 8865']",San Antonio,TX,78256,(210) 807-3049
+"['Sleep Number ', 'Knoxville']","['Next to Earth Fare, across from Tennova Hospital', '10901 Parkside Drive', 'Suite 104']",Knoxville,TN,37934,(865) 288-4067
+"['Sleep Number ', 'Austin']","[""Mall Location - Lower level, Nordstrom's wing"", '2901 S Capital of Texas Hwy', 'Space H07B']",Austin,TX,78746,(512) 327-8589
+"['Sleep Number ', 'Austin']","['in the south end of South Park Meadows catty corner from Longhorn Steakhouse', '9900 Southbound IH 35', 'Suite W400']",Austin,TX,78748,(512) 291-9885
+"['Sleep Number ', 'Arlington']","['Mall Location - Upper level, near Center Court', '3811 S Cooper', 'Suite 2046']",Arlington,TX,76015,(817) 468-2603
+"['Sleep Number ', 'Cedar Hill']","['Next to Sherwin-Williams Paint', '415 Pleasant Run Rd', 'Suite 165']",Cedar Hill,TX,75104,(972) 291-5905
+"['Sleep Number ', 'Cedar Park']","['At the entrance of Costco', '909 East Whitestone Blvd', 'Suite D']",Cedar Park,TX,78613,(512) 259-1803
+"['Sleep Number ', 'Austin']","['Entrance of the Domain at Braker Lane', '3310 W Braker Lane', 'Suite 100']",Austin,TX,78758,(512) 832-4900
+"['Sleep Number ', 'Harker Heights']","['Near Educational Outfitters', '300 East Central Texas Expressway', 'Harker Heights']",Harker Heights,TX,76548,(254) 433-5404
+"['Sleep Number ', 'Waco']","[""Between Logan's Steakhouse and Verizon Wireless"", '2808 W Loop 340', 'Suite H15']",Waco,TX,76711,(254) 230-4084
+"['Sleep Number ', 'Abilene']","['Southwest Drive and Catclaw Drive', '4225 Southwest Dr', 'Abilene']",Abilene,TX,79606,(325) 793-9496
+"['Sleep Number ', 'Fort Worth']","['Mall Location - Lower level across from Coach', '4800 S Hulen', 'Space 138']",Fort Worth,TX,76132,(817) 292-6321
+"['Sleep Number ', 'Florence']","['2861 Florence Blvd', 'Florence']",Florence,AL,35630,(256) 649-6210
+"['Sleep Number ', 'Georgetown']","['Near Casa Ole', '1013 West University Ave', 'Suite 140']",Georgetown,TX,78628,(512) 686-4526
+"['Sleep Number ', 'Nashville']","['Mall Location - Near Old Navy', '157 Opry Mills Drive', 'Nashville']",Nashville,TN,37214,(615) 823-3143
+"['Sleep Number ', 'Hurst']","['Mall Location - JCPenney wing', '1101 Melbourne Road', 'Space 3086']",Hurst,TX,76053,(817) 537-0004
+"['Sleep Number ', 'Chattanooga']","['Mall Location - Upper level, across from JCPenny', '2100 Hamilton Place Blvd', 'Suite 212']",Chattanooga,TN,37421,(423) 899-8050
+"['Sleep Number ', 'Franklin']","[""Mall Location - 2nd floor between Sears & Dillard's"", '1800 Galleria Boulevard', 'Suite 2360']",Franklin,TN,37067,(615) 771-3090
+"['Sleep Number ', 'New Hartford']","['Adjacent to Barnes and Noble', '4815 Commercial Drive', 'Suite 100']",New Hartford,NY,13413,(315) 736-0594
+"['Sleep Number ', 'Albany']","['Mall Location - Upper level, near Lord & Taylor', '1 Crossgates Mall Road', 'Suite E209']",Albany,NY,12203,(518) 218-7207
+"['Sleep Number ', 'Freehold']","['Mall Location - Next to Cheescake Factory', '3710 Route 9', 'Space L210']",Freehold,NJ,07728,(732) 462-8815
+"['Sleep Number ', 'Brick']","['Next to Best Buy', '709 Route 70', 'Brick']",Brick,NJ,08723,(732) 473-3180
+"['Sleep Number ', 'Murfreesboro']","['Mall Location - Across from Barnes & Noble', '2615 Medical Center Parkway', 'Suite 2385']",Murfreesboro,TN,37129,(615) 278-9152
+"['Sleep Number ', 'Nashville']","['In the Lions Head Village', '96 White Bridge Pike', 'Suite 104']",Nashville,TN,37205,(615) 354-5995
+"['Sleep Number ', 'Harrisonburg']","['on corner of E. Market St. and University Blvd., across from Hobby Lobby', '1760 E Market St', 'Suite 101']",Harrisonburg,VA,22801,(540) 208-1356
+"['Sleep Number ', 'Hamilton']","['Next to New York & Company', '541 Route 130', 'Suite 432']",Hamilton,NJ,08691,(609) 585-3939
+"['Sleep Number ', 'Newport News']","['Across from Whole Foods', '12090  Jefferson Ave', 'Building 1000, Suite 1040']",Newport News,VA,23606,(757) 255-5570
+"['Sleep Number ', 'Williamsburg']","['Next to Banana Republic', '5707-5 Richmond Rd.', 'Space C039']",Williamsburg,VA,23188,(757) 221-7057
+"['Sleep Number ', 'Winchester']","['Mall Location - Near JCPenney', '1850 Apple Blossom Drive', 'Space N157']",Winchester,VA,22601,(540) 665-8345
+"['Sleep Number ', 'Fredericksburg']","['Next to Ethan Allen', '1440 Carl D Silver Parkway', 'Fredericksburg']",Fredericksburg,VA,22401,(540) 786-1501
+"['Sleep Number ', 'Richmond']","['Near Kroger', '11833 W Broad Street', 'Richmond']",Richmond,VA,23233,(804) 364-9523
+"['Sleep Number ', 'Charlottesville']","['Mall Location - Level 1, near Belk', '1600 Rio Rd E', 'Suite 1214']",Charlottesville,VA,22901,(434) 973-1470
+"['Sleep Number ', 'Pittsburgh']","['Upper level, near JC Penney', '100 Robinson Center Drive', 'Pittsburgh']",Pittsburgh,PA,15205,(412) 490-9101
+"['Sleep Number ', 'Cranberry Township']","['east of I-79, adjacent to UPMC Lemieux Sports Complex', '2080 Mackenzie Way', 'Suite 400']",Cranberry Township,PA,16066,(724) 716-8450
+"['Sleep Number ', 'Monroeville']","['East of Valley Honda, across from Miracle Mile Shopping Center', '4185 William Penn Hwy.', 'Monroeville']",Monroeville,PA,15146,(412) 457-8050
+"['Sleep Number ', 'Tarentum']","[""Near Lowe's"", '2029 Pittsburgh Mills Blvd', 'Tarentum']",Tarentum,PA,15084,(724) 274-9158
+"['Sleep Number ', 'Pittsburgh']","[""Mall Location - Upper level, near Dick's Sporting Goods"", '301 South Hills Village', 'Space 2265B']",Pittsburgh,PA,15241,(412) 479-9003
+"['Sleep Number ', 'Glendale Heights']","['In front of Target', '177 West Army Trail Rd.', 'Glendale Heights']",Glendale Heights,IL,60139,(630) 332-8410
+"['Sleep Number ', 'Charleston']","[""Mall Location - Second floor near Macy's"", '2110 Charleston Town Center', 'Charleston']",Charleston,WV,25389,(304) 345-8848
+"['Sleep Number ', 'Pittsburgh']","[""Across from Target and Kohl's"", '4840 McKnight Rd', 'Suite A']",Pittsburgh,PA,15237,(412) 366-2615
+"['Sleep Number ', 'Deerfield']","['Next to Starbucks', '60 S Waukegan Rd.', 'Suite B']",Deerfield,IL,60015,(847) 559-8129
+"['Sleep Number ', 'Deer Park']","['Next to Starbucks', '20530 N Rand Rd', 'Suite 436']",Deer Park,IL,60010,(847) 550-0741
+"['Sleep Number ', 'Greensburg']","['Mall Location - Lower level, near JCPenney', '5256 Route 30', 'Suite NL8']",Greensburg,PA,15601,(724) 836-8554
+"['Sleep Number ', 'Algonquin']","['Near Best Buy', '1531 S Randall Rd.', 'Algonquin']",Algonquin,IL,60102,(847) 854-9720
+"['Sleep Number ', 'Morgantown']","['University Towne Center, across from Target', '252 Jim Street', 'Morgantown']",Morgantown,WV,26501,(304) 598-2236
+"['Sleep Number ', 'Gurnee']","['Off Grand Ave', '6631 Grand Ave', 'Unit 3']",Gurnee,IL,60031,(847) 855-2720
+"['Sleep Number ', 'Skokie']","['Next door to L. L. Bean', '4999 Old Orchard Center', 'Suite F15']",Skokie,IL,60077,(847) 929-9013
+"['Sleep Number ', 'Schaumburg']","[""Mall Location - Lower level by Lord and Taylor's"", 'L-117 Woodfield Mall', 'Schaumburg']",Schaumburg,IL,60173,(847) 517-8456
+"['Sleep Number ', 'Vernon Hills']","['Mall Location - Level 1, near Center Court', '325 Hawthorn Center', 'Vernon Hills']",Vernon Hills,IL,60061,(847) 573-8135
+"['Sleep Number ', 'Wausau']","['Rib Mountain Road next to Texas Roadhouse', '4720 Rib Mountain Drive', 'Wausau']",Wausau,WI,54401,(715) 241-0990
+"['Sleep Number ', 'Rockford']","['E State St. in front of Walmart', '7310 Walton Street', 'Suite B']",Rockford,IL,61108,(815) 332-7560
+"['Sleep Number ', 'Madison']","['Across from Outback Steakhouse', '4602 E Washington Ave', 'Madison']",Madison,WI,53704,(608) 244-6353
+"['Sleep Number ', 'Grove City']","['in front of Target', '4120 Buckeye Pkwy.', 'Grove City']",Grove City,OH,43123,(614) 782-8552

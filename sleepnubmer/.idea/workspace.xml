@@ -8,10 +8,6 @@
       <change beforePath="$PROJECT_DIR$/../Job_samecity/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Job_samecity/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Job_samecity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Job_samecity/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sleepnubmer/latitude_longitude.py" beforeDir="false" afterPath="$PROJECT_DIR$/sleepnubmer/latitude_longitude.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sleepnubmer/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/sleepnubmer/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sleepnubmer/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sleepnubmer/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sleepnubmer/spiders/stores.py" beforeDir="false" afterPath="$PROJECT_DIR$/sleepnubmer/spiders/stores.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -37,11 +33,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="803" />
-    <option name="y" value="195" />
-    <option name="width" value="1567" />
-    <option name="height" value="848" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="327" />
+    <option name="y" value="198" />
+    <option name="width" value="1557" />
+    <option name="height" value="847" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -75,7 +71,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../meituan" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -180,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554877276241</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add proxy">
+      <created>1554892201643</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554892201643</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -193,9 +196,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="34" width="2048" height="1118" extended-state="6" />
+    <frame x="327" y="198" width="1557" height="847" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15612648" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20613177" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -206,7 +209,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32962587" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32964823" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2992922" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.41225627" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -215,9 +218,9 @@
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add proxy" />
     <MESSAGE value="'add proxy'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'add proxy'" />
+    <MESSAGE value="add proxy" />
+    <option name="LAST_COMMIT_MESSAGE" value="add proxy" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../tutorial/tutorial/spiders/quotes.py">
