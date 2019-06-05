@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
+import re
 
+import execjs
+import requests
+import time
 from scrapy import FormRequest,Spider,Request
 
 
@@ -9,19 +13,28 @@ class ErrSpider(Spider):
     start_urls = ['http://eip.megmeet.com:8008/sys/portal/page.jsp']
     longin_url = "http://eip.megmeet.com:8008/j_acegi_security_check/"
 
-    # username = input("请输入账号：")
-    # password = input("请输入密码：")
-    def parse(self, response):
+    time = int(time.time()*1000)
+    url = 'http://eip.megmeet.com:8008/resource/js/session.jsp?_={time}&s_ajax=true'
+
+    result = requests.get(url=url.format(time=time))
+    sessionid = re.findall('return "(.*?)"', result.text)[0]
+
+    passwd = execjs.compile(open(u"eip/EIP.js").read()).call('desEncrypt', '******', sessionid)
+    # print(passwd)
+    def start_requests(self):
+        yield Request(url=self.longin_url, callback = self.post_login)
+
+    def post_login(self, response):
         yield FormRequest.from_response(
-            response,  # 传入response对象,自动解析
-            # 可以通过xpath来定位form表单,当前页只有一个form表单时,将会自动定位
-            formdata={"j_username": 'yhs375', "j_password": '䐵匠䴵GIjAUOsc9UEZ4FRqcQhk1w==','j_redirectto': 'http://eip.megmeet.com:8008/index.jsp'},
-            callback=self.parse_login,
-        )
+            response,
+            formdata={
+                'j_username' : '******',
+                'j_password' : self.passwd,
+                'j_lang': 'zh - CN',
+                'j_redirectto': 'http://eip.megmeet.com:8008/index.jsp',
+            },
+            callback=self.parse
+            )
 
-    def parse_login(self, response):
-
+    def parse(self, response):
         print(response.text)
-
-
-
