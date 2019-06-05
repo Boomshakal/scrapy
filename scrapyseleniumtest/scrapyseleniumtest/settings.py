@@ -14,8 +14,8 @@ BOT_NAME = 'scrapyseleniumtest'
 SPIDER_MODULES = ['scrapyseleniumtest.spiders']
 NEWSPIDER_MODULE = 'scrapyseleniumtest.spiders'
 
-KEYWORDS = ['iPad']
-MAX_PAGE=10
+KEYWORDS = [u'眼镜']
+MAX_PAGE=5
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'scrapyseleniumtest (+http://www.yourdomain.com)'
 
