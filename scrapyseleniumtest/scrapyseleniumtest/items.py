@@ -12,7 +12,7 @@ from scrapy import Item,Field
 
 
 class ProductItem(Item):
-    collection='products'
+    collection= table = 'products'
     images=Field()
     price=Field()
     deal=Field()

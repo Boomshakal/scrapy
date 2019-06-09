@@ -33,12 +33,19 @@ Chrome_SERVICE_ARGS = ['--load-images=false', '--disk-cache=true']
 
 ITEM_PIPELINES = {
     'scrapyseleniumtest.pipelines.MongoPipeline': 300,
+    'scrapyseleniumtest.pipelines.MysqlPipeline': 400,
 }
 
 MONGO_URI = 'localhost'
 
 MONGO_DB = 'taobao'
 
+
+MYSQL_HOST = 'localhost'
+MYSQL_DATABASE = 'taobao'
+MYSQL_USER = 'root'
+MYSQL_PASSWORD = 'root'
+MYSQL_PORT = 3306
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 
