@@ -21,7 +21,7 @@ class DonghuaSpider(scrapy.Spider):
     #     yield scrapy.FormRequest(
     #         url=url,
     #         formdata={
-    #             "accountName":"hzwanh","password":"Wheng168168"
+    #             "accountName":"****","password":"****"
     #         },
     #         callback=self.parse
     #     )
