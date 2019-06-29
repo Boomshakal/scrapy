@@ -2,42 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="005e5046-e225-4bfe-be2e-54791bf60937" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/scrapy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/scrapy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aiqiyi/aiqiyi/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/aiqiyi/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyPool/examples/proxytest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ProxyPool/examples/proxytest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyPool/proxypool/setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ProxyPool/proxypool/setting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aiqiyi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/eip.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/eip.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eip/.idea/eip.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eip/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eip/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eip/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eip/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eip/111.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eip/aes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eip/base64.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eip/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eip/desEncrypt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eip/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eip/security.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eip/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/eip/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eip/spiders/bin/activate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eip/spiders/bin/conda" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eip/spiders/bin/deactivate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eip/spiders/err.py" beforeDir="false" afterPath="$PROJECT_DIR$/eip/spiders/err.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eip/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/eip/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scrapyseleniumtest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scrapyseleniumtest/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scrapyseleniumtest/.idea/scrapyseleniumtest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../scrapyseleniumtest/.idea/scrapyseleniumtest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lianjia/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lianjia/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qidian/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../qidian/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../scrapyseleniumtest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scrapyseleniumtest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scrapyseleniumtest/scrapyseleniumtest/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../scrapyseleniumtest/scrapyseleniumtest/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scrapyseleniumtest/scrapyseleniumtest/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../scrapyseleniumtest/scrapyseleniumtest/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scrapyseleniumtest/scrapyseleniumtest/spiders/taobao.py" beforeDir="false" afterPath="$PROJECT_DIR$/../scrapyseleniumtest/scrapyseleniumtest/spiders/taobao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../weibo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../weibo/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../weibo/.idea/weibo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../weibo/.idea/weibo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../weibo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../weibo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zhihuuser/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zhihuuser/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,15 +39,45 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/eip/spiders/err.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="82" selection-start-line="21" selection-start-column="82" selection-end-line="21" selection-end-column="82" />
+            <state relative-caret-position="186">
+              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
               <folding>
                 <element signature="e#24#33#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eip/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/anaconda3/envs/scrapy/lib/python3.7/site-packages/scrapy/spiders/crawl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="21" column="37" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eip/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -100,17 +105,18 @@
         <option value="$PROJECT_DIR$/eip/desEncrypt.js" />
         <option value="$PROJECT_DIR$/eip/111.js" />
         <option value="$PROJECT_DIR$/eip/EIP.js" />
-        <option value="$PROJECT_DIR$/eip/settings.py" />
         <option value="$PROJECT_DIR$/eip/test.py" />
+        <option value="$PROJECT_DIR$/eip/settings.py" />
         <option value="$PROJECT_DIR$/eip/spiders/err.py" />
+        <option value="$PROJECT_DIR$/../../spider/EIP/EIP_login.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="371" />
-    <option name="y" value="77" />
-    <option name="width" value="1299" />
-    <option name="height" value="888" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="320" />
+    <option name="y" value="180" />
+    <option name="width" value="1873" />
+    <option name="height" value="916" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -153,10 +159,6 @@
               <item name="eip" type="462c0819:PsiDirectoryNode" />
               <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="eip" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -168,7 +170,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../test/正则.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../scrapyseleniumtest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -190,7 +192,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.EIP_login (1)">
+    <configuration name="EIP_login (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="eip" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../spider/EIP" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../spider/EIP/EIP_login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="EIP_login" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="eip" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -238,9 +261,11 @@
     <list>
       <item itemvalue="Python.EIP_login" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.EIP_login (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.EIP_login (1)" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.EIP_login" />
       </list>
@@ -270,14 +295,14 @@
     <option name="totallyTimeSpent" value="2868000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1477" height="797" extended-state="6" />
+    <frame x="320" y="180" width="1873" height="916" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17071478" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16856368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32932332" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.499653" weight="0.32932332" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.499653" visible="true" weight="0.43346614" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39849624" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -286,8 +311,9 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50034696" side_tool="true" weight="0.32932332" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.34736842" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3426295" />
       <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="GraphQL" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -343,44 +369,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../test/正则.py" />
     <entry file="file://$PROJECT_DIR$/eip/EIP.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="796" column="13" lean-forward="true" selection-start-line="796" selection-start-column="13" selection-end-line="796" selection-end-column="13" />
+        <state relative-caret-position="1499">
+          <caret line="790" column="16" lean-forward="true" selection-start-line="790" selection-start-column="16" selection-end-line="790" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../test/正则.py">
+    <entry file="file://$PROJECT_DIR$/../../spider/EIP/EIP_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="36" />
+        <state relative-caret-position="-906">
+          <caret line="15" column="74" lean-forward="true" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eip/spiders/err.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eip/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        <state relative-caret-position="192">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eip/settings.py">
+    <entry file="file://$USER_HOME$/anaconda3/envs/scrapy/lib/python3.7/site-packages/scrapy/spiders/crawl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="384">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eip/spiders/err.py">
+    <entry file="file://$PROJECT_DIR$/eip/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="82" selection-start-line="21" selection-start-column="82" selection-end-line="21" selection-end-column="82" />
-          <folding>
-            <element signature="e#24#33#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="840">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
         </state>
       </provider>
     </entry>

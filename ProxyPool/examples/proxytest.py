@@ -19,7 +19,7 @@ proxies = {
     'http': 'http://' + proxy,
     'https': 'https://' + proxy,
 }
-
+print(proxies)
 print(TEST_URL)
 response = requests.get(TEST_URL, proxies=proxies, verify=False)
 if response.status_code == 200:

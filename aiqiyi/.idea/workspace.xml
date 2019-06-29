@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8676ba71-a6fe-4427-bca0-fd33124002c0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aiqiyi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aiqiyi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyPool/examples/proxytest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ProxyPool/examples/proxytest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProxyPool/proxypool/setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ProxyPool/proxypool/setting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aiqiyi/spiders/comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/aiqiyi/spiders/comments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lianjia/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lianjia/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qidian/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../qidian/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,41 +21,7 @@
     <SUITE FILE_PATH="coverage/aiqiyi$comments.coverage" NAME="comments Coverage Results" MODIFIED="1550195561624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aiqiyi/spiders" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aiqiyi/spiders/comments.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="26" />
-              <folding>
-                <element signature="e#24#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aiqiyi/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aiqiyi/pipelines.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="e#24#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,11 +44,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
     <option name="y" value="93" />
-    <option name="width" value="1234" />
-    <option name="height" value="874" />
+    <option name="width" value="1224" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -103,6 +71,12 @@
             </path>
             <path>
               <item name="aiqiyi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aiqiyi" type="462c0819:PsiDirectoryNode" />
+              <item name="aiqiyi" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aiqiyi" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -113,7 +87,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../data_analysis/pandas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eip" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -223,9 +197,9 @@
     <option name="totallyTimeSpent" value="20910000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="93" width="1234" height="874" extended-state="0" />
+    <frame x="0" y="34" width="2560" height="1406" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28842977" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13704582" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -239,8 +213,9 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32740214" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.45503357" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2621514" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32740214" />
+      <window_info anchor="bottom" id="GraphQL" order="13" weight="0.32988048" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -292,10 +267,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aiqiyi/spiders/comments.py">
+    <entry file="file://$PROJECT_DIR$/aiqiyi/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="26" />
+        <state relative-caret-position="192">
+          <caret line="8" column="65" lean-forward="true" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
           <folding>
             <element signature="e#24#35#0" expanded="true" />
           </folding>
@@ -304,15 +279,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/aiqiyi/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+        <state relative-caret-position="336">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aiqiyi/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/aiqiyi/spiders/comments.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="600">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
           <folding>
             <element signature="e#24#35#0" expanded="true" />
           </folding>

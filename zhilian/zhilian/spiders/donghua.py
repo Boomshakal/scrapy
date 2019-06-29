@@ -29,7 +29,6 @@ class DonghuaSpider(scrapy.Spider):
     # def parse(self, response):
     #     print(response.body.decode('utf-8'))
 
-
     def parse(self, response):
         # print(response.text)
         request_id = re.findall('zpPageRequestId = "(.*?)"', response.text)[0]
@@ -41,6 +40,7 @@ class DonghuaSpider(scrapy.Spider):
         print(url)
         yield scrapy.FormRequest(
             url=url,
+            method='POST',
             formdata={"start": '1', "rows": '30', "S_DISCLOSURE_LEVEL": '2',
                       "S_EXCLUSIVE_COMPANY": "杭州万恒会计服务有限公司;杭州万恒会计服务有限公司;杭州万恒会计服务有限公司", "S_KEYWORD": "动画",
                       "S_DATE_MODIFIED": "181213,190613", "S_CURRENT_CITY": "653", "S_ENGLISH_RESUME": "1",
