@@ -45,7 +45,9 @@ class WeibocnSpider(Spider):
     def parse_fans(self, response):
 
         result = json.loads(response.text)
-        cards = result.get('data').get('cards')[0].get('card_group')
+        cards = result.get('data').get('cards')[0]
+        if cards:
+            cards=cards.get('card_group')
         # print(cards)
         nexturl_info = result.get('data').get('cardlistInfo')
         containerid = nexturl_info.get('containerid')
