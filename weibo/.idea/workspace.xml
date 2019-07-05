@@ -2,14 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49afbb98-84cf-40e0-aab0-6b93032b9570" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Douyu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Douyu/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../aiqiyi/.idea/aiqiyi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/.idea/aiqiyi.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../aiqiyi/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../aiqiyi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aiqiyi/aiqiyi/spiders/comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/aiqiyi/spiders/comments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zhihuuser/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zhihuuser/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aiqiyi/aiqiyi/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/aiqiyi/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aiqiyi/aiqiyi/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/aiqiyi/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jindong/.idea/jindong.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../jindong/.idea/jindong.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jindong/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jindong/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jindong/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jindong/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jindong/jindong/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../jindong/jindong/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../meizitu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../meizitu/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qidian/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../qidian/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrapyseleniumtest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scrapyseleniumtest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/weibo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/weibo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../zhihuuser/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zhihuuser/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zhihuuser/.idea/zhihuuser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../zhihuuser/.idea/zhihuuser.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +30,7 @@
     <SUITE FILE_PATH="coverage/weibo$weibocn.coverage" NAME="weibocn Coverage Results" MODIFIED="1538057721837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo/spiders" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -89,6 +98,10 @@
               <item name="weibo" type="462c0819:PsiDirectoryNode" />
               <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="weibo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -98,7 +111,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zhihuuser" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -188,13 +201,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="34" width="2048" height="1118" extended-state="6" />
+    <frame x="0" y="29" width="2560" height="1411" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.13517514" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.13499604" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="GraphQL" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.51859295" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32355338" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32962587" />
       <window_info anchor="bottom" id="Python Console" order="4" weight="0.32962587" />
