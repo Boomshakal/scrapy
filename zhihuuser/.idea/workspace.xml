@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bca57745-34be-4bc3-9950-eb010d5adf1c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Douyu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Douyu/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../aiqiyi/.idea/aiqiyi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/.idea/aiqiyi.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../aiqiyi/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../aiqiyi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aiqiyi/aiqiyi/spiders/comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/aiqiyi/spiders/comments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../weibo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../weibo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aiqiyi/aiqiyi/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/aiqiyi/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aiqiyi/aiqiyi/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/aiqiyi/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jindong/.idea/jindong.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../jindong/.idea/jindong.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jindong/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jindong/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jindong/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jindong/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jindong/jindong/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../jindong/jindong/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../meizitu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../meizitu/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qidian/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../qidian/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scrapyseleniumtest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scrapyseleniumtest/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/zhihuuser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zhihuuser.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +24,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zhihuuser/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="92" column="74" lean-forward="true" selection-start-line="92" selection-start-column="74" selection-end-line="92" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -49,11 +64,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="473" />
-    <option name="y" value="83" />
-    <option name="width" value="1299" />
-    <option name="height" value="854" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="486" />
+    <option name="y" value="154" />
+    <option name="width" value="1013" />
+    <option name="height" value="837" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -88,7 +103,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dianping" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../weibo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -119,11 +134,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="473" y="83" width="1299" height="854" extended-state="0" />
+    <frame x="0" y="29" width="2560" height="1411" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32472613" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16508314" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="GraphQL" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -134,8 +150,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5031299" side_tool="true" visible="true" weight="0.29548565" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4968701" visible="true" weight="0.29548565" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5035629" side_tool="true" weight="0.2345679" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49643704" visible="true" weight="0.30888346" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -153,13 +169,6 @@
     </entry>
     <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/scrapy/spiders/__init__.py" />
     <entry file="file://$USER_HOME$/weibo/weibo/settings.py" />
-    <entry file="file://$PROJECT_DIR$/zhihuuser/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1518">
-          <caret line="69" column="43" selection-start-line="69" selection-start-column="43" selection-end-line="69" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zhihuuser/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
@@ -179,11 +188,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zhihuuser/spiders/zhihu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        <state relative-caret-position="437">
+          <caret line="55" column="36" lean-forward="true" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
           <folding>
             <element signature="e#24#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhihuuser/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="92" column="74" lean-forward="true" selection-start-line="92" selection-start-column="74" selection-end-line="92" selection-end-column="74" />
         </state>
       </provider>
     </entry>
