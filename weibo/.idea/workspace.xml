@@ -2,19 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49afbb98-84cf-40e0-aab0-6b93032b9570" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Douyu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Douyu/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aiqiyi/.idea/aiqiyi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/.idea/aiqiyi.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aiqiyi/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aiqiyi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aiqiyi/aiqiyi/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/aiqiyi/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../aiqiyi/aiqiyi/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../aiqiyi/aiqiyi/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jindong/.idea/jindong.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../jindong/.idea/jindong.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jindong/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jindong/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jindong/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jindong/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jindong/jindong/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../jindong/jindong/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../meizitu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../meizitu/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../qidian/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../qidian/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scrapyseleniumtest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scrapyseleniumtest/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,29 +18,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/weibo/spiders/weibocn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="27" column="117" lean-forward="true" selection-start-line="27" selection-start-column="117" selection-end-line="27" selection-end-column="117" />
+            <state relative-caret-position="312">
+              <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
               <folding>
                 <element signature="e#24#57#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weibo/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2208">
-              <caret line="92" selection-start-line="92" selection-end-line="92" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weibo/items.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -97,10 +66,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="76" />
-    <option name="y" value="113" />
+    <option name="x" value="66" />
+    <option name="y" value="114" />
     <option name="width" value="2289" />
-    <option name="height" value="1254" />
+    <option name="height" value="1252" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -108,6 +77,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,7 +104,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,16 +212,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="76" y="113" width="2289" height="1254" extended-state="0" />
+    <frame x="66" y="114" width="2289" height="1252" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.15019938" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1905184" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.36894977" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.36890525" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32962587" />
-      <window_info anchor="bottom" id="Python Console" order="4" weight="0.32874197" />
+      <window_info anchor="bottom" id="Python Console" order="4" weight="0.32842687" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.32962587" />
@@ -383,27 +352,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weibo/spiders/weibocn.py">
+    <entry file="file://$PROJECT_DIR$/weibo/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="27" column="117" lean-forward="true" selection-start-line="27" selection-start-column="117" selection-end-line="27" selection-end-column="117" />
-          <folding>
-            <element signature="e#24#57#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="421">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/weibo/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2208">
-          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        <state relative-caret-position="229">
+          <caret line="66" column="30" lean-forward="true" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weibo/items.py">
+    <entry file="file://$PROJECT_DIR$/weibo/spiders/weibocn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        <state relative-caret-position="312">
+          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <element signature="e#24#57#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
