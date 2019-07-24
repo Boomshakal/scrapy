@@ -89,7 +89,7 @@ DEFAULT_REQUEST_HEADERS = {
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 ITEM_PIPELINES={
-    'jindong.pipelines.MongoPipeline':400,
+    # 'jindong.pipelines.MongoPipeline':400,
 }
 MONGO_URI='localhost'
 MONGO_DB='jingdong'

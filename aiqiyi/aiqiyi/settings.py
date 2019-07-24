@@ -68,7 +68,7 @@ DEFAULT_REQUEST_HEADERS = {
 ITEM_PIPELINES = {
    'aiqiyi.pipelines.TimePipeline': 300,
     'aiqiyi.pipelines.GenderPipeline': 305,
-    'aiqiyi.pipelines.MongoPipeline': 400,
+    # 'aiqiyi.pipelines.MongoPipeline': 400,
 
 }
 MONGO_URI='localhost'

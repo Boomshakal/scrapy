@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import time
-import pymongo
+# import pymongo
 from aiqiyi.items import CommentsItem
 
 # Define your item pipelines here
