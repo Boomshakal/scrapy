@@ -68,11 +68,11 @@ DEFAULT_REQUEST_HEADERS = {
 ITEM_PIPELINES = {
    'aiqiyi.pipelines.TimePipeline': 300,
     'aiqiyi.pipelines.GenderPipeline': 305,
-    # 'aiqiyi.pipelines.MongoPipeline': 400,
+    'aiqiyi.pipelines.MongoPipeline': 400,
 
 }
-MONGO_URI='localhost'
-MONGO_DB='aiqiyi'
+MONGO_URI='192.168.234.129'
+MONGO_DATABASE='aiqiyi'
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
 #AUTOTHROTTLE_ENABLED = True

@@ -62,7 +62,7 @@ DEFAULT_REQUEST_HEADERS = {
 #    'scrapy.extensions.telnet.TelnetConsole': None,
 # }
 
-MONGO_URI = 'localhost'
+MONGO_URI = '192.168.234.129'
 MONGO_DATABASE = 'weibo'
 # Configurbocne item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html

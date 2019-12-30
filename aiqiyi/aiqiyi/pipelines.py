@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import time
-# import pymongo
+import pymongo
 from aiqiyi.items import CommentsItem
 
 # Define your item pipelines here
@@ -39,6 +39,7 @@ class MongoPipeline(object):
 
     def open_spider(self, spider):
         self.client = pymongo.MongoClient(self.mongo_uri)
+        # self.client = pymongo.MongoClient("mongodb://root:root@192.168.234.129/aiqiyi")
         self.db = self.client[self.mongo_db]
 
     def close_spider(self, spider):
