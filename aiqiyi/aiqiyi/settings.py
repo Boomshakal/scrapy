@@ -71,7 +71,7 @@ ITEM_PIPELINES = {
     'aiqiyi.pipelines.MongoPipeline': 400,
 
 }
-MONGO_URI='192.168.234.129'
+MONGO_URI='10.4.7.41'
 MONGO_DATABASE='aiqiyi'
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
